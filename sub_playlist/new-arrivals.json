@@ -1,0 +1,172 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "nktIdkPAh3P2YDXhB94WEsF5Jr8",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jL33csuOKRcBEnAScXoHkuYUQgc",
+      "id": "UEx1MUZSOHZuWG5UaENZUjNDLXNGY21ZaGJ5RjFuUVJBSi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-07-02T09:59:18Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "MASTER'S TABLE | Secrets of the Master",
+        "description": "#AngelTV #MastersTable\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: https://bit.ly/3crSgQs\n📖 To download free e-books: https://bit.ly/3dsYuRx \n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rgC1Eneg6rI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rgC1Eneg6rI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rgC1Eneg6rI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rgC1Eneg6rI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rgC1Eneg6rI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCYR3C-sFcmYhbyF1nQRAJ",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "rgC1Eneg6rI" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "rgC1Eneg6rI",
+        "videoPublishedAt": "2020-06-27T14:43:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Qh1jjZ4ikGiTeFkbPWuAWKkt3QE",
+      "id": "UEx1MUZSOHZuWG5UaENZUjNDLXNGY21ZaGJ5RjFuUVJBSi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-07-02T09:59:18Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "WORD OF THE LORD | Neville Johnson",
+        "description": "#AngelTV  #WordOfTheLord #NevilleJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: https://bit.ly/3crSgQs\n📖 To download free e-books: https://bit.ly/3dsYuRx \n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JwxAznTBNJ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JwxAznTBNJ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JwxAznTBNJ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JwxAznTBNJ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JwxAznTBNJ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCYR3C-sFcmYhbyF1nQRAJ",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "JwxAznTBNJ0" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "JwxAznTBNJ0",
+        "videoPublishedAt": "2020-06-28T07:00:03Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cNR2KTa4HuNoJ1IK8tqmAyZIXDI",
+      "id": "UEx1MUZSOHZuWG5UaENZUjNDLXNGY21ZaGJ5RjFuUVJBSi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-07-02T09:59:18Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "MYSTERIES OF JEZEBEL | Jennifer Leclaire",
+        "description": "#AngelTV #MysteriesofJezebel #JenniferLeclaire\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: https://bit.ly/3crSgQs\n📖 To download free e-books: https://bit.ly/3dsYuRx \n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TrVVKROQyUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TrVVKROQyUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TrVVKROQyUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TrVVKROQyUo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TrVVKROQyUo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCYR3C-sFcmYhbyF1nQRAJ",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "TrVVKROQyUo" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "TrVVKROQyUo",
+        "videoPublishedAt": "2020-07-02T04:23:46Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XdAqx6cKOuLo1-OEadrnNmoctqs",
+      "id": "UEx1MUZSOHZuWG5UaENZUjNDLXNGY21ZaGJ5RjFuUVJBSi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-07-02T09:59:18Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCYR3C-sFcmYhbyF1nQRAJ",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "KjbEMPP0pU4" }
+      },
+      "contentDetails": { "videoId": "KjbEMPP0pU4" },
+      "status": { "privacyStatus": "private" }
+    }
+  ],
+  "pageInfo": { "totalResults": 4, "resultsPerPage": 50 }
+}

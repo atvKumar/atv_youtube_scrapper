@@ -1,0 +1,929 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "QyvruOHDeRlg69TLm7yMkvhCjDA",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RATjGFVtIgOvKAjkF03wejEa3p4",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2014-06-24T14:22:08Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 1.",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_D96A2q_knI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_D96A2q_knI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_D96A2q_knI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "_D96A2q_knI" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "_D96A2q_knI",
+        "videoPublishedAt": "2014-05-13T14:28:34Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OhHFMRkvNn9YRNyzbkDukK0bKsw",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2014-06-24T14:22:08Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 2.",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dal8uJ4W_nY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dal8uJ4W_nY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dal8uJ4W_nY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "dal8uJ4W_nY" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "dal8uJ4W_nY",
+        "videoPublishedAt": "2014-06-24T13:43:56Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vObh8II7eBfzbS36CQRPXQ7n2F4",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2014-06-24T14:22:08Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 3.",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mTK1FDUrqTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mTK1FDUrqTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mTK1FDUrqTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "mTK1FDUrqTk" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "mTK1FDUrqTk",
+        "videoPublishedAt": "2014-06-24T14:19:27Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "567YmPHRZsPxWmVNWYQ2rMg8trI",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2014-06-25T10:09:56Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 4.",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AsZdXcTvdaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AsZdXcTvdaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AsZdXcTvdaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "AsZdXcTvdaM" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "AsZdXcTvdaM",
+        "videoPublishedAt": "2014-06-25T09:15:48Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DDDuPho6iR5IISU2-DPAoN0p-14",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2014-06-29T10:13:52Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 5.",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UVbFgBPRuco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UVbFgBPRuco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UVbFgBPRuco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 4,
+        "resourceId": { "kind": "youtube#video", "videoId": "UVbFgBPRuco" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "UVbFgBPRuco",
+        "videoPublishedAt": "2014-06-29T10:12:50Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m9hCKryVq94SRrMO1DCM7RjGW5A",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2014-07-20T01:10:54Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 6.",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YeQR0XX4eOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YeQR0XX4eOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YeQR0XX4eOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 5,
+        "resourceId": { "kind": "youtube#video", "videoId": "YeQR0XX4eOU" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "YeQR0XX4eOU",
+        "videoPublishedAt": "2014-07-20T01:10:39Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xDaM-f7_3qQuwWMsUFc7SAnI78c",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2014-07-20T03:03:24Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 7.",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ANAdzSgdLyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ANAdzSgdLyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ANAdzSgdLyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 6,
+        "resourceId": { "kind": "youtube#video", "videoId": "ANAdzSgdLyE" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "ANAdzSgdLyE",
+        "videoPublishedAt": "2014-07-20T02:09:02Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ASlC8tUfvJ2Kggrc2yBu8Ke9m3k",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2014-07-20T03:03:08Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 8",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hW0vizKTeis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hW0vizKTeis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hW0vizKTeis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 7,
+        "resourceId": { "kind": "youtube#video", "videoId": "hW0vizKTeis" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "hW0vizKTeis",
+        "videoPublishedAt": "2014-07-20T03:02:53Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8ERu7uabSPriMenrHS4FSW4Wzyk",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2014-08-16T13:03:43Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 9",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pSglBXGKFRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pSglBXGKFRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pSglBXGKFRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 8,
+        "resourceId": { "kind": "youtube#video", "videoId": "pSglBXGKFRM" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "pSglBXGKFRM",
+        "videoPublishedAt": "2014-08-16T13:03:17Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oLFLnxc7pA_S8sB8QgXZr-TiBFo",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2014-08-16T13:51:49Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 10",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wp1ERxA9j-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wp1ERxA9j-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wp1ERxA9j-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 9,
+        "resourceId": { "kind": "youtube#video", "videoId": "Wp1ERxA9j-E" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "Wp1ERxA9j-E",
+        "videoPublishedAt": "2014-08-16T13:51:27Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2FMAlz_HE86SsLriUEp7XdP5890",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2014-09-28T08:19:27Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 11",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xyM3e0MOTN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xyM3e0MOTN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xyM3e0MOTN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 10,
+        "resourceId": { "kind": "youtube#video", "videoId": "xyM3e0MOTN4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "xyM3e0MOTN4",
+        "videoPublishedAt": "2014-09-27T13:30:09Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wYOQTHP9vMM-lR0MFOTQ8Alfx9Y",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2014-09-28T08:19:27Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 12",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CnN7WM-czoA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CnN7WM-czoA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CnN7WM-czoA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 11,
+        "resourceId": { "kind": "youtube#video", "videoId": "CnN7WM-czoA" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "CnN7WM-czoA",
+        "videoPublishedAt": "2014-09-27T14:18:38Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "85_njnUSmxsHQ-PgwZdYLdTyXao",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2014-09-28T08:19:27Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 13",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UOjLYWJ-6Jw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UOjLYWJ-6Jw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UOjLYWJ-6Jw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 12,
+        "resourceId": { "kind": "youtube#video", "videoId": "UOjLYWJ-6Jw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "UOjLYWJ-6Jw",
+        "videoPublishedAt": "2014-09-27T14:51:57Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o4UAp04x_s5NNP-T88Q80vdC9NY",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2014-10-20T00:41:09Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 14",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CBkghZTbdkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CBkghZTbdkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CBkghZTbdkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 13,
+        "resourceId": { "kind": "youtube#video", "videoId": "CBkghZTbdkc" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "CBkghZTbdkc",
+        "videoPublishedAt": "2014-10-19T14:25:13Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zUoKdW-iOb3Sn3zEpUi3qIa7SWM",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2014-10-20T00:41:09Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 15",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EXfb8fKOlmY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EXfb8fKOlmY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EXfb8fKOlmY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 14,
+        "resourceId": { "kind": "youtube#video", "videoId": "EXfb8fKOlmY" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "EXfb8fKOlmY",
+        "videoPublishedAt": "2014-10-19T15:25:22Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nKb-5-F4Qebf-rdki3AgYUmKIPo",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2014-11-26T04:29:10Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 16",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s_wY6UWLS0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s_wY6UWLS0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s_wY6UWLS0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 15,
+        "resourceId": { "kind": "youtube#video", "videoId": "s_wY6UWLS0g" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "s_wY6UWLS0g",
+        "videoPublishedAt": "2014-11-26T04:28:21Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OmTlcGdxnEPkZ3ZdwQhRELrMoAo",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2014-11-26T05:01:05Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 17",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fEhR1OpBXOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fEhR1OpBXOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fEhR1OpBXOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 16,
+        "resourceId": { "kind": "youtube#video", "videoId": "fEhR1OpBXOM" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "fEhR1OpBXOM",
+        "videoPublishedAt": "2014-11-26T05:00:51Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PMiLEiWv_2PWikyOBOz_j8NG130",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2014-12-28T15:28:10Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 18",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ipr7LyQhSCE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ipr7LyQhSCE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ipr7LyQhSCE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 17,
+        "resourceId": { "kind": "youtube#video", "videoId": "Ipr7LyQhSCE" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "Ipr7LyQhSCE",
+        "videoPublishedAt": "2014-12-28T15:27:55Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KojhNWsSaZS7coFRUMTW8bINYOI",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2015-02-24T07:30:00Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 20",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IP30ld6Kfs4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IP30ld6Kfs4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IP30ld6Kfs4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IP30ld6Kfs4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 18,
+        "resourceId": { "kind": "youtube#video", "videoId": "IP30ld6Kfs4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "IP30ld6Kfs4",
+        "videoPublishedAt": "2015-02-24T06:52:21Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v7R-9OLSjsoZsaqXwiXlQP74dEw",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2015-04-29T04:18:52Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 22",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/04EA5SFaHDM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/04EA5SFaHDM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/04EA5SFaHDM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/04EA5SFaHDM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 19,
+        "resourceId": { "kind": "youtube#video", "videoId": "04EA5SFaHDM" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "04EA5SFaHDM",
+        "videoPublishedAt": "2015-04-29T04:18:30Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qheHZa7de_F2SlXy0-36sKTgKdI",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2015-07-28T11:26:02Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 23",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kt1065RrEKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kt1065RrEKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kt1065RrEKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kt1065RrEKw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 20,
+        "resourceId": { "kind": "youtube#video", "videoId": "Kt1065RrEKw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "Kt1065RrEKw",
+        "videoPublishedAt": "2015-07-28T11:25:44Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "H07Lqa1_Es7OFUi6BeEymiNIXKk",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2015-07-28T12:02:07Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 24",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LfyWmjXyf2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LfyWmjXyf2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LfyWmjXyf2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LfyWmjXyf2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 21,
+        "resourceId": { "kind": "youtube#video", "videoId": "LfyWmjXyf2A" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "LfyWmjXyf2A",
+        "videoPublishedAt": "2015-07-28T12:01:55Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f8I9-sQwxwENpE5TNTvJV7lUY8w",
+      "id": "UEx1MUZSOHZuWG5UalRlbERjVzdOZVdJS2pVWi1yRjZqQi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2015-08-23T13:05:03Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "CROSS FIRE - Ep - 25",
+        "description": "REV. JAMES SINGH delivers the end time messages.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dsy-oTqk57w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dsy-oTqk57w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dsy-oTqk57w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dsy-oTqk57w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjTelDcW7NeWIKjUZ-rF6jB",
+        "position": 22,
+        "resourceId": { "kind": "youtube#video", "videoId": "dsy-oTqk57w" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "dsy-oTqk57w",
+        "videoPublishedAt": "2015-08-23T13:04:43Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 23, "resultsPerPage": 50 }
+}

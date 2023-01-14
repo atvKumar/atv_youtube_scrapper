@@ -1,0 +1,203 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "DuhEaoabcSIb3MjtGBAHXhspX84",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q9eWP2JMrGO3GZlEhRDWcvC8lKs",
+      "id": "UEx1MUZSOHZuWG5UaGFRVlZTQWYyYTRROE5MZXRQQzktUC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2013-10-17T09:18:50Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "DECEVIERS !!! Be Careful",
+        "description": "DECEIVERS , FALSE PROPHETS !!! Be Careful and Watchful....",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NeRemBTZHcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NeRemBTZHcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NeRemBTZHcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NeRemBTZHcM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NeRemBTZHcM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThaQVVSAf2a4Q8NLetPC9-P",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "NeRemBTZHcM" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "NeRemBTZHcM",
+        "videoPublishedAt": "2013-10-17T09:09:52Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6HP5bfSpTc2JQRgqd9D7WMPhoTE",
+      "id": "UEx1MUZSOHZuWG5UaGFRVlZTQWYyYTRROE5MZXRQQzktUC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2013-10-17T09:24:20Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Breaking Prophetic News",
+        "description": "\"Meteor Impact\", Reveled on 10 Feb 2013.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pu0KC0kn8_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pu0KC0kn8_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pu0KC0kn8_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pu0KC0kn8_Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pu0KC0kn8_Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThaQVVSAf2a4Q8NLetPC9-P",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "pu0KC0kn8_Q" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "pu0KC0kn8_Q",
+        "videoPublishedAt": "2013-10-17T09:06:23Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-jTAdp10Or1WI3AWHvLZbgogb6c",
+      "id": "UEx1MUZSOHZuWG5UaGFRVlZTQWYyYTRROE5MZXRQQzktUC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2013-10-17T09:54:48Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Breaking Prophetic News",
+        "description": "'Locust Swarm' Reveled Prophecy on Jan 1, 2013....",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4R8XHGMxrIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4R8XHGMxrIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4R8XHGMxrIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4R8XHGMxrIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4R8XHGMxrIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThaQVVSAf2a4Q8NLetPC9-P",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "4R8XHGMxrIw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "4R8XHGMxrIw",
+        "videoPublishedAt": "2013-10-17T10:02:08Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2gx1TNshMPbX-2mqNg2QLBAUxsk",
+      "id": "UEx1MUZSOHZuWG5UaGFRVlZTQWYyYTRROE5MZXRQQzktUC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2013-10-17T10:00:03Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "RFID Chip !!! ALERT",
+        "description": "MARK of Last days.....",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z7SWnzrOGJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z7SWnzrOGJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z7SWnzrOGJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z7SWnzrOGJ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z7SWnzrOGJ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThaQVVSAf2a4Q8NLetPC9-P",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "z7SWnzrOGJ8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "z7SWnzrOGJ8",
+        "videoPublishedAt": "2013-10-17T08:55:04Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 4, "resultsPerPage": 50 }
+}

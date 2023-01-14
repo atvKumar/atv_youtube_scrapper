@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "h-FbNuFVomEBDVuI4_DFtNIxtA0",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MzEOw913diH9waE3lYhDNbBHvC4",
+      "id": "UEx1MUZSOHZuWG5UakJ1anlUdlJJeE54Q3k3Z3otLTFrcy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-01-23T02:59:36Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "安琪TV | 2020 撒督．孙大索 新年信息",
+        "description": "#AngelTV #AngelTVChinese \n\nSubscribe to our channel!\n\nStay connected: \nWebsite: http://www.angeltv.org/\nTwitter: https://twitter.com/angeltv_sss\nInstagram: https://www.instagram.com/angeltvsss/\n\nTo watch all 12 channels of Angel TV live: http://www.angeltv.org/Chinese.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-efBIKW7cH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-efBIKW7cH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-efBIKW7cH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-efBIKW7cH0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-efBIKW7cH0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjBujyTvRIxNxCy7gz--1ks",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "-efBIKW7cH0" },
+        "videoOwnerChannelTitle": "Angel TV Chinese",
+        "videoOwnerChannelId": "UCdyhq3mCBJP4I78bnoLCpQw"
+      },
+      "contentDetails": {
+        "videoId": "-efBIKW7cH0",
+        "videoPublishedAt": "2020-01-21T08:30:00Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 1, "resultsPerPage": 50 }
+}

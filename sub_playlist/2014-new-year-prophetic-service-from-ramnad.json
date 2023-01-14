@@ -1,0 +1,85 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "j7wxvuqKxM9iYaov92TfG3eqoDg",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uFU7RhIqmnJ9KB9LMgjflkpT5VQ",
+      "id": "UEx1MUZSOHZuWG5UaTFzVkZqcTR3eUh6MF96d3FBRFZWTS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2014-04-12T01:37:55Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "\"2014 NEW YEAR PROPHETIC SERVICE\" SESSION 2, ANGEL TV.",
+        "description": "2014 NEW YEAR PROPHETIC SERVICE LIVE FROM RAMNAD.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PdNuYqU5cHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PdNuYqU5cHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PdNuYqU5cHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi1sVFjq4wyHz0_zwqADVVM",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "PdNuYqU5cHU" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "PdNuYqU5cHU",
+        "videoPublishedAt": "2014-04-04T22:46:01Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ybHiudk5aDP6dO-5Z9KKki8d-7c",
+      "id": "UEx1MUZSOHZuWG5UaTFzVkZqcTR3eUh6MF96d3FBRFZWTS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2014-04-12T01:37:55Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "\"2014 NEW YEAR PROPHETIC SERVICE\" SESSION 1, ANGEL TV.",
+        "description": "2014 NEW YEAR PROPHETIC SERVICE LIVE FROM RAMNAD.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZD3BBD4ncoM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZD3BBD4ncoM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZD3BBD4ncoM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi1sVFjq4wyHz0_zwqADVVM",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "ZD3BBD4ncoM" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "ZD3BBD4ncoM",
+        "videoPublishedAt": "2014-04-04T03:03:50Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 2, "resultsPerPage": 50 }
+}

@@ -1,0 +1,271 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "9fx9nFINDhBNG-buUuxRnNYJXsw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "98tscN8QzmPx8jJGwuvwUPJXXJU",
+      "id": "UEx1MUZSOHZuWG5UaHNCR0dlZElMSUpvMlFWNXI3RU1rQS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2015-10-28T06:06:46Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "HOUR OF DELIVERANCE - Ep - 1 (HINDI)",
+        "description": "Hour of Deliverance with Pastor Adebanjo Oluwadare.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lWbwRvvUFhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lWbwRvvUFhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lWbwRvvUFhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lWbwRvvUFhM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThsBGGedILIJo2QV5r7EMkA",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "lWbwRvvUFhM" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "lWbwRvvUFhM",
+        "videoPublishedAt": "2015-02-24T07:05:26Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2PlZWHjIxGfkxUeH9secpJdVUjs",
+      "id": "UEx1MUZSOHZuWG5UaHNCR0dlZElMSUpvMlFWNXI3RU1rQS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2015-10-28T06:06:46Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "HOUR OF DELIVERANCE - Ep - 2 (HINDI)",
+        "description": "Hour of Deliverance with Pastor Adebanjo Oluwadare.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WzPBwPzGYpI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WzPBwPzGYpI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WzPBwPzGYpI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WzPBwPzGYpI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThsBGGedILIJo2QV5r7EMkA",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "WzPBwPzGYpI" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "WzPBwPzGYpI",
+        "videoPublishedAt": "2015-03-25T14:10:25Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mNsw3KdpAod0Mg6cfYX9i4uFNqI",
+      "id": "UEx1MUZSOHZuWG5UaHNCR0dlZElMSUpvMlFWNXI3RU1rQS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2015-10-28T06:06:46Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "HOUR OF DELIVERANCE - Ep - 3 (HINDI)",
+        "description": "Hour of Deliverance with Pastor Adebanjo Oluwadare.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Br7EIhvaXpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Br7EIhvaXpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Br7EIhvaXpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Br7EIhvaXpo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThsBGGedILIJo2QV5r7EMkA",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "Br7EIhvaXpo" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "Br7EIhvaXpo",
+        "videoPublishedAt": "2015-04-24T09:56:36Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ODnxArHWabXokex2hCElghOCfE0",
+      "id": "UEx1MUZSOHZuWG5UaHNCR0dlZElMSUpvMlFWNXI3RU1rQS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2015-10-28T06:06:46Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "HOUR OF DELIVERANCE - Ep - 4 (HINDI)",
+        "description": "Hour of Deliverance with Pastor Adebanjo Oluwadare.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uT0b1Q_LsZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uT0b1Q_LsZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uT0b1Q_LsZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uT0b1Q_LsZ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThsBGGedILIJo2QV5r7EMkA",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "uT0b1Q_LsZ0" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "uT0b1Q_LsZ0",
+        "videoPublishedAt": "2015-10-19T14:55:53Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OKGbSdICC8NTeiwPxuAv-OoFX4M",
+      "id": "UEx1MUZSOHZuWG5UaHNCR0dlZElMSUpvMlFWNXI3RU1rQS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2015-10-28T06:06:46Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "HOUR OF DELIVERANCE - Ep - 5 (HINDI)",
+        "description": "Hour of Deliverance with Pastor Adebanjo Oluwadare.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GZLq0Ft42uE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GZLq0Ft42uE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GZLq0Ft42uE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GZLq0Ft42uE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThsBGGedILIJo2QV5r7EMkA",
+        "position": 4,
+        "resourceId": { "kind": "youtube#video", "videoId": "GZLq0Ft42uE" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "GZLq0Ft42uE",
+        "videoPublishedAt": "2015-10-24T07:19:33Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hiCGKZHQJhFgShwJrHGGvqvo0lA",
+      "id": "UEx1MUZSOHZuWG5UaHNCR0dlZElMSUpvMlFWNXI3RU1rQS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2016-08-05T01:44:37Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "HOUR OF DELIVERANCE - Ep - 6 (HINDI)",
+        "description": "Hour of Deliverance with Pastor Adebanjo Oluwadare.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qCugoyqiXV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qCugoyqiXV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qCugoyqiXV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qCugoyqiXV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThsBGGedILIJo2QV5r7EMkA",
+        "position": 5,
+        "resourceId": { "kind": "youtube#video", "videoId": "qCugoyqiXV4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "qCugoyqiXV4",
+        "videoPublishedAt": "2016-08-05T01:44:19Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 6, "resultsPerPage": 50 }
+}

@@ -1,0 +1,908 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "sTnTjhqW5YYOihkBNJ2u1oXmvHw",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wPQinLU3ipMkS2L46A6tPTFdl9Y",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2017-04-25T02:02:01Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "iMIPBSrSeC8" }
+      },
+      "contentDetails": { "videoId": "iMIPBSrSeC8" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rz8rgw6POz10yi9nmPFJsKrU4k0",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2017-04-25T02:02:01Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "gaFNz9NzHf4" }
+      },
+      "contentDetails": { "videoId": "gaFNz9NzHf4" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CuevGC9-k6mK6SCe7_79W6FArvw",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2017-08-29T04:37:01Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "Kchp9KzvUlY" }
+      },
+      "contentDetails": { "videoId": "Kchp9KzvUlY" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IZSEeDFZLSvDtklGey1qZBvEmnM",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2017-08-29T04:37:01Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "oe6IkDMqLcs" }
+      },
+      "contentDetails": { "videoId": "oe6IkDMqLcs" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MvQfmQpKelghG95q_bDR6ighMhM",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2017-04-25T08:18:04Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 4,
+        "resourceId": { "kind": "youtube#video", "videoId": "QrYzXepSQyY" }
+      },
+      "contentDetails": { "videoId": "QrYzXepSQyY" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4xYgHy5nhu0tLCbjeS80BP35tWM",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2017-04-25T08:18:35Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 5,
+        "resourceId": { "kind": "youtube#video", "videoId": "vfLhLi6nfEM" }
+      },
+      "contentDetails": { "videoId": "vfLhLi6nfEM" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-Q9E4k_gwMX3PllYb6azpZWT3_U",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2017-08-11T05:30:13Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 6,
+        "resourceId": { "kind": "youtube#video", "videoId": "IgB7lPjil5k" }
+      },
+      "contentDetails": { "videoId": "IgB7lPjil5k" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bwfAb_3iWH1QvFhMMyVJryscR7w",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2017-08-11T05:30:11Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 7,
+        "resourceId": { "kind": "youtube#video", "videoId": "2qmqbzDLCYg" }
+      },
+      "contentDetails": { "videoId": "2qmqbzDLCYg" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fNCiB-wjJCejjXqmwJOchRlCV8g",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2017-08-29T04:37:11Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 8,
+        "resourceId": { "kind": "youtube#video", "videoId": "LFSu7e_e2yM" }
+      },
+      "contentDetails": { "videoId": "LFSu7e_e2yM" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A7lXskO_8UULobhn0lo8JoKLjWE",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2017-08-29T04:37:11Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 9,
+        "resourceId": { "kind": "youtube#video", "videoId": "zcGXGa4zOZc" }
+      },
+      "contentDetails": { "videoId": "zcGXGa4zOZc" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZzVoTDR-VK-0zfcBeVHJ7MkgrdI",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2017-06-14T02:41:59Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 10,
+        "resourceId": { "kind": "youtube#video", "videoId": "PrkvbT9h5DQ" }
+      },
+      "contentDetails": { "videoId": "PrkvbT9h5DQ" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TYtzbvntWk0k-q9awhm_9BVibSo",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2017-06-14T02:42:10Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 11,
+        "resourceId": { "kind": "youtube#video", "videoId": "7xMnNkCuau4" }
+      },
+      "contentDetails": { "videoId": "7xMnNkCuau4" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J2-SClwQ49U1yywYTG-pHIuPjbA",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2017-08-29T04:37:12Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 12,
+        "resourceId": { "kind": "youtube#video", "videoId": "mJ4NYgzWz78" }
+      },
+      "contentDetails": { "videoId": "mJ4NYgzWz78" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-M0tsFkwPXYJlyAJMlLkN-FlQZ8",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2017-08-29T04:37:10Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 13,
+        "resourceId": { "kind": "youtube#video", "videoId": "oC-RaHuxjOQ" }
+      },
+      "contentDetails": { "videoId": "oC-RaHuxjOQ" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rlYoDXn8VRXniu1TTBm7XPR7hPA",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2017-08-29T04:37:11Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 14,
+        "resourceId": { "kind": "youtube#video", "videoId": "_RyePsDvMxA" }
+      },
+      "contentDetails": { "videoId": "_RyePsDvMxA" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "48NDs30LkHw5d29yX2M7yv1pMEo",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2017-08-29T04:37:10Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 15,
+        "resourceId": { "kind": "youtube#video", "videoId": "o-1zt4753EU" }
+      },
+      "contentDetails": { "videoId": "o-1zt4753EU" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7IriLSa4yGcUNCNEYexFslKzcRc",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2017-08-29T04:37:12Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 16,
+        "resourceId": { "kind": "youtube#video", "videoId": "1oqWxnFlUM4" }
+      },
+      "contentDetails": { "videoId": "1oqWxnFlUM4" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VxALnyWHtcN4cAKCLdVxac4RaoU",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2017-08-29T04:36:55Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 17,
+        "resourceId": { "kind": "youtube#video", "videoId": "YhvWG2YfvGU" }
+      },
+      "contentDetails": { "videoId": "YhvWG2YfvGU" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6wUsT7y_G9KhL7VbQpJ4nEGhHNY",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2017-08-07T09:19:34Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 18,
+        "resourceId": { "kind": "youtube#video", "videoId": "SiKhUe_riio" }
+      },
+      "contentDetails": { "videoId": "SiKhUe_riio" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WBbt5zLPDDnps0Lr6bjaw1wXVP0",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2017-08-07T09:21:24Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 19,
+        "resourceId": { "kind": "youtube#video", "videoId": "uyJP4YAwOVo" }
+      },
+      "contentDetails": { "videoId": "uyJP4YAwOVo" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "omL7AK4Xz2BlhZd8Zc5rFnIL-vQ",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2017-08-22T10:12:20Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 20,
+        "resourceId": { "kind": "youtube#video", "videoId": "tuN3NB98ayo" }
+      },
+      "contentDetails": { "videoId": "tuN3NB98ayo" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bX3a7xT_4a-c-33pRb9vUg6lPOs",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2017-08-22T10:12:24Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 21,
+        "resourceId": { "kind": "youtube#video", "videoId": "CXUJSMLhAxI" }
+      },
+      "contentDetails": { "videoId": "CXUJSMLhAxI" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zpt82AMcWA1XZLBgnrBnXaXmldY",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2017-08-23T10:00:09Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 22,
+        "resourceId": { "kind": "youtube#video", "videoId": "LPcGc9tq9sk" }
+      },
+      "contentDetails": { "videoId": "LPcGc9tq9sk" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9HyQ6Ty6p3Sv3eAQJrFZ9tccsF4",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2017-08-23T10:00:14Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 23,
+        "resourceId": { "kind": "youtube#video", "videoId": "EUGUaCwAh9s" }
+      },
+      "contentDetails": { "videoId": "EUGUaCwAh9s" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BsuEgX2MDlobPDk8TxTs6EbCm4s",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2017-08-26T12:00:18Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 24,
+        "resourceId": { "kind": "youtube#video", "videoId": "lkyOQoTeAB8" }
+      },
+      "contentDetails": { "videoId": "lkyOQoTeAB8" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NYMxFp6yyV6yzsPTpZUNzJCvVUk",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2017-08-26T12:00:16Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 25,
+        "resourceId": { "kind": "youtube#video", "videoId": "XWWZQDVpz2o" }
+      },
+      "contentDetails": { "videoId": "XWWZQDVpz2o" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Hpik61IjifLf__kisx5XUSChGlg",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2017-08-29T08:55:35Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 26,
+        "resourceId": { "kind": "youtube#video", "videoId": "ucfGkfD_yRY" }
+      },
+      "contentDetails": { "videoId": "ucfGkfD_yRY" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i6zjKkC2Xw-BS57n3NswFZ8AzFY",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2017-08-29T08:55:35Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 27,
+        "resourceId": { "kind": "youtube#video", "videoId": "4mMWZdxa210" }
+      },
+      "contentDetails": { "videoId": "4mMWZdxa210" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9XfwoDWybgfO2rbTmLvg8c4bVlY",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2017-08-29T08:55:35Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 28,
+        "resourceId": { "kind": "youtube#video", "videoId": "yqAdDeyIdb0" }
+      },
+      "contentDetails": { "videoId": "yqAdDeyIdb0" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4xtYWtW-pDVKr7D9heyx1alA-Co",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2017-08-29T08:55:36Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 29,
+        "resourceId": { "kind": "youtube#video", "videoId": "JGFGeZe8a-M" }
+      },
+      "contentDetails": { "videoId": "JGFGeZe8a-M" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7IzLC2k01vhchGHRL7HTU0F_Vdk",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2017-08-29T08:55:19Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 30,
+        "resourceId": { "kind": "youtube#video", "videoId": "MAw74-s1wI8" }
+      },
+      "contentDetails": { "videoId": "MAw74-s1wI8" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PMFH9N6uMdwMOS7FtgTUTBGLj7c",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2017-08-29T08:55:18Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 31,
+        "resourceId": { "kind": "youtube#video", "videoId": "grqGCowfsR0" }
+      },
+      "contentDetails": { "videoId": "grqGCowfsR0" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SyisVLm0-cm-SfAIlzeomqbo3Gc",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2017-08-29T10:41:24Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 32,
+        "resourceId": { "kind": "youtube#video", "videoId": "mxGGqnuCGj8" }
+      },
+      "contentDetails": { "videoId": "mxGGqnuCGj8" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tjPOwT-46BV7sbrlv6IWzGs6f_c",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2017-08-29T10:41:25Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 33,
+        "resourceId": { "kind": "youtube#video", "videoId": "m_q8pdfkncM" }
+      },
+      "contentDetails": { "videoId": "m_q8pdfkncM" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PU_QBB5e0rRx6rgTe1m_iQcXySo",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2017-08-29T10:41:22Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 34,
+        "resourceId": { "kind": "youtube#video", "videoId": "0rBWMsv8a0E" }
+      },
+      "contentDetails": { "videoId": "0rBWMsv8a0E" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NDux3qVppGBN2KFU9tegmd1_tq8",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2017-08-29T10:41:24Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 35,
+        "resourceId": { "kind": "youtube#video", "videoId": "T9toXludGLU" }
+      },
+      "contentDetails": { "videoId": "T9toXludGLU" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ol24lwQuG8xSCs_K7IP2dZKPgfc",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2017-08-29T10:41:21Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 36,
+        "resourceId": { "kind": "youtube#video", "videoId": "NCdH52x76GA" }
+      },
+      "contentDetails": { "videoId": "NCdH52x76GA" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rEDRaw_fxeLdEYn8_u8Dkxpbp6Q",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2017-08-29T10:41:21Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 37,
+        "resourceId": { "kind": "youtube#video", "videoId": "tBZYN3yRMeE" }
+      },
+      "contentDetails": { "videoId": "tBZYN3yRMeE" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C_oyGljTztK41oNhSvssggwth9k",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2017-08-29T10:41:24Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 38,
+        "resourceId": { "kind": "youtube#video", "videoId": "bEwy6930w8k" }
+      },
+      "contentDetails": { "videoId": "bEwy6930w8k" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fGbbPRTcQeS4FSLQFMnQafCtidA",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2017-08-29T10:41:22Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 39,
+        "resourceId": { "kind": "youtube#video", "videoId": "nZrA-znRJ6w" }
+      },
+      "contentDetails": { "videoId": "nZrA-znRJ6w" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kYeW4lPlNUkNE0bMX-V9BbdA_UU",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2017-09-01T09:10:14Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 40,
+        "resourceId": { "kind": "youtube#video", "videoId": "uOWi44Aya5E" }
+      },
+      "contentDetails": { "videoId": "uOWi44Aya5E" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "quijg9jmo6OCOwDkQ8G3cqtmtso",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2017-09-01T09:10:28Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 41,
+        "resourceId": { "kind": "youtube#video", "videoId": "kYfI4mHaNk8" }
+      },
+      "contentDetails": { "videoId": "kYfI4mHaNk8" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Xc2va4m5YXtWhfvCS5-KRYCy_NU",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2017-09-05T05:20:06Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 42,
+        "resourceId": { "kind": "youtube#video", "videoId": "hAxoUmI7ZfU" }
+      },
+      "contentDetails": { "videoId": "hAxoUmI7ZfU" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_wtpveMqAZfmLKHodD19BrL0-mE",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2017-11-09T09:43:01Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 43,
+        "resourceId": { "kind": "youtube#video", "videoId": "nwkQGWbGnAg" }
+      },
+      "contentDetails": { "videoId": "nwkQGWbGnAg" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9F0NRWt3_Ke_k6LSG3dq03TOSgA",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2017-11-14T10:11:51Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 44,
+        "resourceId": { "kind": "youtube#video", "videoId": "xfsQciM56vE" }
+      },
+      "contentDetails": { "videoId": "xfsQciM56vE" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kQTL7YErbkcSeF-6b02wYlENv9Y",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2017-11-17T12:22:15Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 45,
+        "resourceId": { "kind": "youtube#video", "videoId": "oMXtDech0v8" }
+      },
+      "contentDetails": { "videoId": "oMXtDech0v8" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bcfIiQneEpuBG3JZ1GcCCx9OxGM",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2017-11-17T11:36:36Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 46,
+        "resourceId": { "kind": "youtube#video", "videoId": "C2epvm-jPGQ" }
+      },
+      "contentDetails": { "videoId": "C2epvm-jPGQ" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DIgqeuolKg7I0u7-fztE36Uqoro",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2017-12-04T06:09:50Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 47,
+        "resourceId": { "kind": "youtube#video", "videoId": "Iz5rBY2s5lQ" }
+      },
+      "contentDetails": { "videoId": "Iz5rBY2s5lQ" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9mp3itRDYWY4g3iSPUZcyB85HnE",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2017-12-07T11:06:15Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 48,
+        "resourceId": { "kind": "youtube#video", "videoId": "RN9oWFwZQiw" }
+      },
+      "contentDetails": { "videoId": "RN9oWFwZQiw" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rnmB9dovJeXBkPdFzBkLrLlj49M",
+      "id": "UEx1MUZSOHZuWG5Ualg3MHJONnhYZWtmTTVIRU95b09XOS5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2017-12-11T05:37:46Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjX70rN6xXekfM5HEOyoOW9",
+        "position": 49,
+        "resourceId": { "kind": "youtube#video", "videoId": "vgFM0u2AVRg" }
+      },
+      "contentDetails": { "videoId": "vgFM0u2AVRg" },
+      "status": { "privacyStatus": "private" }
+    }
+  ],
+  "pageInfo": { "totalResults": 125, "resultsPerPage": 50 }
+}

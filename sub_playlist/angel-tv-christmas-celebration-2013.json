@@ -1,0 +1,220 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "Ko8L3am_d9XeQ455YYRMBMFq-h4",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MdY6PHbVUGEZcEN0IBvF6kEzo4c",
+      "id": "UEx1MUZSOHZuWG5UaGRESG5QenVvcnNkWldyX05oek0weC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2014-04-12T01:13:04Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "\"ANGEL TV CELEBRATION SESSION 1 by PROPHET SADHU SUNDAR SELVARAJ\".",
+        "description": "\"TO GOD BE THE GLORY,\nHE HAS DONE GREAT THINGS\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/66aZWicEHvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/66aZWicEHvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/66aZWicEHvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThdDHnPzuorsdZWr_NhzM0x",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "66aZWicEHvs" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "66aZWicEHvs",
+        "videoPublishedAt": "2014-04-05T04:46:17Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HbQa3UFiTBsVepLO31M4D_PmSIk",
+      "id": "UEx1MUZSOHZuWG5UaGRESG5QenVvcnNkWldyX05oek0weC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2014-04-12T01:14:06Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "\"ANGEL TV CELEBRATION SONG by BRO. JOLLY ABRAHAM\".",
+        "description": "\"TO GOD BE THE GLORY,\nHE HAS DONE GREAT THINGS\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/blMbU4xkWpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/blMbU4xkWpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/blMbU4xkWpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThdDHnPzuorsdZWr_NhzM0x",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "blMbU4xkWpU" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "blMbU4xkWpU",
+        "videoPublishedAt": "2014-04-05T01:05:18Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r9orXoYvs7WybPR90HztjjadGYY",
+      "id": "UEx1MUZSOHZuWG5UaGRESG5QenVvcnNkWldyX05oek0weC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2014-04-12T01:15:26Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "\"ANGEL TV CELEBRATION SESSION 2 DEDICATION\".",
+        "description": "\"TO GOD BE THE GLORY,\nHE HAS DONE GREAT THINGS\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BCRe31m_ZJ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BCRe31m_ZJ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BCRe31m_ZJ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThdDHnPzuorsdZWr_NhzM0x",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "BCRe31m_ZJ4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "BCRe31m_ZJ4",
+        "videoPublishedAt": "2014-04-10T05:15:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3ebjg-mgLZcNq8-XbSi1gZI02KI",
+      "id": "UEx1MUZSOHZuWG5UaGRESG5QenVvcnNkWldyX05oek0weC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2014-04-12T01:18:02Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThdDHnPzuorsdZWr_NhzM0x",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "P54dUkrFTTE" }
+      },
+      "contentDetails": { "videoId": "P54dUkrFTTE" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UTJ01qKmyk8CHso1QVl67cBq69Q",
+      "id": "UEx1MUZSOHZuWG5UaGRESG5QenVvcnNkWldyX05oek0weC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2014-04-13T05:41:59Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "\"ANGEL TV CELEBRATION SESSION 3 by EVA. MOHAN C LAZARUS\".",
+        "description": "\"TO GOD BE THE GLORY,\nHE HAS DONE GREAT THINGS\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xK2ksYif5bA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xK2ksYif5bA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xK2ksYif5bA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThdDHnPzuorsdZWr_NhzM0x",
+        "position": 4,
+        "resourceId": { "kind": "youtube#video", "videoId": "xK2ksYif5bA" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "xK2ksYif5bA",
+        "videoPublishedAt": "2014-04-13T05:26:38Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o-MQXkd6fC4X7Q3Je5Th9fqAzu8",
+      "id": "UEx1MUZSOHZuWG5UaGRESG5QenVvcnNkWldyX05oek0weC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2014-04-12T01:18:39Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "\"ANGEL TV CHRISTMAS CELEBRATION - WORSHIP SESSION by EVA. ALBERT SOLOMON\".",
+        "description": "\"TO GOD BE THE GLORY,\nHE HAS DONE GREAT THINGS\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PZzuQvKDzbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PZzuQvKDzbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PZzuQvKDzbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThdDHnPzuorsdZWr_NhzM0x",
+        "position": 5,
+        "resourceId": { "kind": "youtube#video", "videoId": "PZzuQvKDzbE" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "PZzuQvKDzbE",
+        "videoPublishedAt": "2014-04-05T01:02:26Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 6, "resultsPerPage": 50 }
+}

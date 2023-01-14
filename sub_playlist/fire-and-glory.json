@@ -1,0 +1,651 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "P9LxJ5SSfHFL9h7Wwu1oD6gouLw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "l-X1BbnhE1-_5CiNsfYX40yn7sU",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2014-07-20T14:05:14Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 1.",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sQ9i7Em2KhA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sQ9i7Em2KhA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sQ9i7Em2KhA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "sQ9i7Em2KhA" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "sQ9i7Em2KhA",
+        "videoPublishedAt": "2014-07-20T06:19:25Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0CYt7FIWGPTzN3IB8_3mzCNOpJg",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2014-07-20T14:01:56Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 2.",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fdwVSxe4_Jg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fdwVSxe4_Jg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fdwVSxe4_Jg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "fdwVSxe4_Jg" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "fdwVSxe4_Jg",
+        "videoPublishedAt": "2014-07-20T07:15:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cooSNZH2vpPHPxRlI_2hmOGzEzQ",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2014-07-20T14:04:58Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 3.",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3qC26MyiPdw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3qC26MyiPdw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3qC26MyiPdw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "3qC26MyiPdw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "3qC26MyiPdw",
+        "videoPublishedAt": "2014-07-20T08:31:49Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V5hGaEHM0YzsyQtprhnLRH1H1HE",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2014-08-21T08:41:32Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 4",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YdNsnE0TOj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YdNsnE0TOj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YdNsnE0TOj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "YdNsnE0TOj4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "YdNsnE0TOj4",
+        "videoPublishedAt": "2014-08-21T08:41:04Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U_95jIf_Sry1asgraJ0sqM4sDS8",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2014-09-26T14:38:17Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 5",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oQE-vSWnenM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oQE-vSWnenM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oQE-vSWnenM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 4,
+        "resourceId": { "kind": "youtube#video", "videoId": "oQE-vSWnenM" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "oQE-vSWnenM",
+        "videoPublishedAt": "2014-09-26T10:46:03Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oYg8ODsaZwD7OOfZISJy5f0x6OE",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2014-09-26T14:37:42Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 6",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XdrXEa4Jtl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XdrXEa4Jtl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XdrXEa4Jtl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 5,
+        "resourceId": { "kind": "youtube#video", "videoId": "XdrXEa4Jtl0" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "XdrXEa4Jtl0",
+        "videoPublishedAt": "2014-09-26T14:37:17Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sObLclVUnqrgPMb863QFFByAq3k",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2014-09-27T03:28:36Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 7",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Xqzg6sPLZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Xqzg6sPLZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Xqzg6sPLZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 6,
+        "resourceId": { "kind": "youtube#video", "videoId": "9Xqzg6sPLZo" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "9Xqzg6sPLZo",
+        "videoPublishedAt": "2014-09-27T03:28:22Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Nn0gtdoQ4vVa2kvXCW8bEBo1Cd0",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2014-10-23T09:27:17Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 8",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2aTsIdWPW9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2aTsIdWPW9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2aTsIdWPW9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 7,
+        "resourceId": { "kind": "youtube#video", "videoId": "2aTsIdWPW9I" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "2aTsIdWPW9I",
+        "videoPublishedAt": "2014-10-23T09:25:25Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "poFIfNnTDKXcQtskHS2da5JNzDY",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2014-11-26T06:00:08Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 9",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LjIrnt7-n4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LjIrnt7-n4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LjIrnt7-n4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 8,
+        "resourceId": { "kind": "youtube#video", "videoId": "LjIrnt7-n4c" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "LjIrnt7-n4c",
+        "videoPublishedAt": "2014-11-26T05:59:40Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iVhek4mHUOAmKEuE3EiwdSaYQbw",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2014-12-28T10:20:01Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 10",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fr-DOdS4b24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fr-DOdS4b24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fr-DOdS4b24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 9,
+        "resourceId": { "kind": "youtube#video", "videoId": "fr-DOdS4b24" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "fr-DOdS4b24",
+        "videoPublishedAt": "2014-12-28T10:19:20Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xAowvSqRQvZwx1Z76VKr1UqNHZE",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2014-12-28T11:14:34Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 11",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cy0cMLh5QjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cy0cMLh5QjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cy0cMLh5QjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 10,
+        "resourceId": { "kind": "youtube#video", "videoId": "cy0cMLh5QjY" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "cy0cMLh5QjY",
+        "videoPublishedAt": "2014-12-28T11:05:54Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eFQo_Y3TDlZ04qr9rhcfxRVoouU",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2014-12-28T12:11:35Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 12",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xe-y0oiquMU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xe-y0oiquMU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xe-y0oiquMU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 11,
+        "resourceId": { "kind": "youtube#video", "videoId": "Xe-y0oiquMU" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "Xe-y0oiquMU",
+        "videoPublishedAt": "2014-12-28T12:11:18Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "djI6gZi4YeqcdJTPM_Kx8QNGJrs",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2015-02-24T09:42:15Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 13",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4sEQ-gzwgXw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4sEQ-gzwgXw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4sEQ-gzwgXw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4sEQ-gzwgXw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 12,
+        "resourceId": { "kind": "youtube#video", "videoId": "4sEQ-gzwgXw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "4sEQ-gzwgXw",
+        "videoPublishedAt": "2015-02-24T09:41:36Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f91PjDG6waakh54f2y_dHS87DJg",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2015-05-19T07:19:40Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 14",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G0Z5jTiKJqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G0Z5jTiKJqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G0Z5jTiKJqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G0Z5jTiKJqY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 13,
+        "resourceId": { "kind": "youtube#video", "videoId": "G0Z5jTiKJqY" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "G0Z5jTiKJqY",
+        "videoPublishedAt": "2015-05-19T07:13:55Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h_o8x8_5QI32qxjBpD1p4HSoeiI",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2015-07-29T07:49:23Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 15",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LiA_N59Xr4Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LiA_N59Xr4Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LiA_N59Xr4Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LiA_N59Xr4Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 14,
+        "resourceId": { "kind": "youtube#video", "videoId": "LiA_N59Xr4Y" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "LiA_N59Xr4Y",
+        "videoPublishedAt": "2015-07-29T07:05:14Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HZX1EFuvpb8rQwZMoRxmw1TsWO0",
+      "id": "UEx1MUZSOHZuWG5UaXdaTWw1TDhrcEkyRlhRN2libzJENS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2015-07-29T07:49:23Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "FIRE AND GLORY - Ep - 16",
+        "description": "Fire and Glory with Pastor Steven Brooks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aw4egUoCPZ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aw4egUoCPZ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aw4egUoCPZ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aw4egUoCPZ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTiwZMl5L8kpI2FXQ7ibo2D5",
+        "position": 15,
+        "resourceId": { "kind": "youtube#video", "videoId": "Aw4egUoCPZ8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "Aw4egUoCPZ8",
+        "videoPublishedAt": "2015-07-29T07:43:57Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 16, "resultsPerPage": 50 }
+}

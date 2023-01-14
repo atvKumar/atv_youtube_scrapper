@@ -1,0 +1,95 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "0LSHuOaQqtBMJMLIBYiX9fCyrJQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EnzIIwFeZGpgzLdMvCx39i7NVrA",
+      "id": "UEx1MUZSOHZuWG5UamlEUEV6UnVHRkE3Rmc3dVFmajVmeC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2016-02-28T16:20:23Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "LIVE HEALING SERVICE 26TH DEC 2015 - TESTIMONIES",
+        "description": "Live Healing service with Bishop. John F Aruldoss",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lT-mwlol9C4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lT-mwlol9C4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lT-mwlol9C4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lT-mwlol9C4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjiDPEzRuGFA7Fg7uQfj5fx",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "lT-mwlol9C4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "lT-mwlol9C4",
+        "videoPublishedAt": "2015-12-28T03:49:46Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zqvcf8idwG56mtYdMnpdYMgPXtM",
+      "id": "UEx1MUZSOHZuWG5UamlEUEV6UnVHRkE3Rmc3dVFmajVmeC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2016-02-28T16:20:23Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "LIVE HEALING SERVICE 26TH DEC 2015",
+        "description": "Live Healing service with Bishop. John F Aruldoss",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RP_Ttl9gZQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RP_Ttl9gZQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RP_Ttl9gZQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RP_Ttl9gZQs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjiDPEzRuGFA7Fg7uQfj5fx",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "RP_Ttl9gZQs" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "RP_Ttl9gZQs",
+        "videoPublishedAt": "2015-12-28T03:12:30Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 2, "resultsPerPage": 50 }
+}

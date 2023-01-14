@@ -1,0 +1,524 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "HZe9TD9R1UtDpUiKZjfiLnJ5THQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P_71dGTb877zT1kIYhukKi7O9I0",
+      "id": "UEx1MUZSOHZuWG5UaTV4ZnNuYjNfZ0N6OXJQYkFBd19UOC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2014-06-26T11:11:55Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "ENTER THE OMEGA GATEWAY - Ep - 1",
+        "description": "Enter the Omega Gateway with Rev. Neville Johnson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c-KwmixqfDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c-KwmixqfDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c-KwmixqfDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi5xfsnb3_gCz9rPbAAw_T8",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "c-KwmixqfDk" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "c-KwmixqfDk",
+        "videoPublishedAt": "2014-06-23T15:23:50Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HdHUuTg1_32tcBnavI3TBBOHIHU",
+      "id": "UEx1MUZSOHZuWG5UaTV4ZnNuYjNfZ0N6OXJQYkFBd19UOC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2014-06-26T11:22:50Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "ENTER THE OMEGA GATEWAY - Ep - 2",
+        "description": "Enter the Omega Gateway with Rev. Neville Johnson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G3P1LmooHmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G3P1LmooHmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G3P1LmooHmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi5xfsnb3_gCz9rPbAAw_T8",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "G3P1LmooHmM" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "G3P1LmooHmM",
+        "videoPublishedAt": "2014-06-26T11:22:39Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sHNIjPhS_UG6gM_vSts7M3B7TpQ",
+      "id": "UEx1MUZSOHZuWG5UaTV4ZnNuYjNfZ0N6OXJQYkFBd19UOC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2014-07-23T12:18:02Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "ENTER THE OMEGA GATEWAY - Ep - 3",
+        "description": "Enter the Omega Gateway with Rev. Neville Johnson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dQMFFfxiPYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dQMFFfxiPYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dQMFFfxiPYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi5xfsnb3_gCz9rPbAAw_T8",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "dQMFFfxiPYU" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "dQMFFfxiPYU",
+        "videoPublishedAt": "2014-07-23T12:17:37Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RHNTOi7Zdu0WBofPZhjQP8hVKBE",
+      "id": "UEx1MUZSOHZuWG5UaTV4ZnNuYjNfZ0N6OXJQYkFBd19UOC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2014-08-27T08:25:00Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "ENTER THE OMEGA GATEWAY - Ep - 4",
+        "description": "Enter the Omega Gateway with Rev. Neville Johnson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nHt0nRNu9Sc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nHt0nRNu9Sc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nHt0nRNu9Sc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi5xfsnb3_gCz9rPbAAw_T8",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "nHt0nRNu9Sc" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "nHt0nRNu9Sc",
+        "videoPublishedAt": "2014-08-27T08:24:42Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5uIkD2QNv43sEKCgs1CXxCwiu2A",
+      "id": "UEx1MUZSOHZuWG5UaTV4ZnNuYjNfZ0N6OXJQYkFBd19UOC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2014-09-28T15:20:31Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "ENTER THE OMEGA GATEWAY - Ep - 5",
+        "description": "Enter the Omega Gateway with Rev. Neville Johnson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KlP58XmIzTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KlP58XmIzTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KlP58XmIzTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi5xfsnb3_gCz9rPbAAw_T8",
+        "position": 4,
+        "resourceId": { "kind": "youtube#video", "videoId": "KlP58XmIzTY" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "KlP58XmIzTY",
+        "videoPublishedAt": "2014-08-31T15:27:41Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F1K25Uuy_E1t7J5L23AGzi-7pHU",
+      "id": "UEx1MUZSOHZuWG5UaTV4ZnNuYjNfZ0N6OXJQYkFBd19UOC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2014-09-28T15:20:31Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "ENTER THE OMEGA GATEWAY - Ep - 6",
+        "description": "Enter the Omega Gateway with Rev. Neville Johnson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cbdsNj57Am8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cbdsNj57Am8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cbdsNj57Am8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi5xfsnb3_gCz9rPbAAw_T8",
+        "position": 5,
+        "resourceId": { "kind": "youtube#video", "videoId": "cbdsNj57Am8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "cbdsNj57Am8",
+        "videoPublishedAt": "2014-09-28T13:51:34Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oph1-EFnP7zWlSKJ9iuEaZ2SW0E",
+      "id": "UEx1MUZSOHZuWG5UaTV4ZnNuYjNfZ0N6OXJQYkFBd19UOC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2014-09-28T15:45:40Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "ENTER THE OMEGA GATEWAY - Ep - 7",
+        "description": "Enter the Omega Gateway with Rev. Neville Johnson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SmiEe6czXF0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SmiEe6czXF0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SmiEe6czXF0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi5xfsnb3_gCz9rPbAAw_T8",
+        "position": 6,
+        "resourceId": { "kind": "youtube#video", "videoId": "SmiEe6czXF0" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "SmiEe6czXF0",
+        "videoPublishedAt": "2014-09-28T15:45:29Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3jW9JplHXkZN8kg58ixQuTeJl7E",
+      "id": "UEx1MUZSOHZuWG5UaTV4ZnNuYjNfZ0N6OXJQYkFBd19UOC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2014-10-13T00:50:15Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "ENTER THE OMEGA GATEWAY - Ep - 8",
+        "description": "Enter the Omega Gateway with Rev. Neville Johnson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K5C8b5v0WaQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K5C8b5v0WaQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K5C8b5v0WaQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi5xfsnb3_gCz9rPbAAw_T8",
+        "position": 7,
+        "resourceId": { "kind": "youtube#video", "videoId": "K5C8b5v0WaQ" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "K5C8b5v0WaQ",
+        "videoPublishedAt": "2014-09-29T02:19:01Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JIjDsCUPWL2BfL1jVHKW_xrJc5Q",
+      "id": "UEx1MUZSOHZuWG5UaTV4ZnNuYjNfZ0N6OXJQYkFBd19UOC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2014-10-25T12:03:29Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "ENTER THE OMEGA GATEWAY - Ep - 9",
+        "description": "Enter the Omega Gateway with Rev. Neville Johnson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IOPouFKeWEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IOPouFKeWEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IOPouFKeWEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi5xfsnb3_gCz9rPbAAw_T8",
+        "position": 8,
+        "resourceId": { "kind": "youtube#video", "videoId": "IOPouFKeWEk" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "IOPouFKeWEk",
+        "videoPublishedAt": "2014-10-25T12:02:50Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hMRAHTk7hEAZE7lxr9A2WKCSIwM",
+      "id": "UEx1MUZSOHZuWG5UaTV4ZnNuYjNfZ0N6OXJQYkFBd19UOC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2014-10-26T09:48:16Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "ENTER THE OMEGA GATEWAY - Ep - 10",
+        "description": "Enter the Omega Gateway with Rev. Neville Johnson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0YSn7O7jdZ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0YSn7O7jdZ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0YSn7O7jdZ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi5xfsnb3_gCz9rPbAAw_T8",
+        "position": 9,
+        "resourceId": { "kind": "youtube#video", "videoId": "0YSn7O7jdZ8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "0YSn7O7jdZ8",
+        "videoPublishedAt": "2014-10-26T09:47:56Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hvCEKBNtxL-UnJ5RXNR-USM2-8M",
+      "id": "UEx1MUZSOHZuWG5UaTV4ZnNuYjNfZ0N6OXJQYkFBd19UOC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2014-11-26T07:13:56Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "ENTER THE OMEGA GATEWAY - Ep - 11",
+        "description": "Enter the Omega Gateway with Rev. Neville Johnson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rGrpFxfoXT4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rGrpFxfoXT4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rGrpFxfoXT4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi5xfsnb3_gCz9rPbAAw_T8",
+        "position": 10,
+        "resourceId": { "kind": "youtube#video", "videoId": "rGrpFxfoXT4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "rGrpFxfoXT4",
+        "videoPublishedAt": "2014-11-26T07:13:30Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Je02-tthIq_pNf8V4LZ3v2LbzSU",
+      "id": "UEx1MUZSOHZuWG5UaTV4ZnNuYjNfZ0N6OXJQYkFBd19UOC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2015-07-28T16:54:57Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "ENTER THE OMEGA GATEWAY - Ep - 12",
+        "description": "Enter the Omega Gateway with Rev. Neville Johnson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yMUEIWsCKWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yMUEIWsCKWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yMUEIWsCKWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yMUEIWsCKWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi5xfsnb3_gCz9rPbAAw_T8",
+        "position": 11,
+        "resourceId": { "kind": "youtube#video", "videoId": "yMUEIWsCKWo" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "yMUEIWsCKWo",
+        "videoPublishedAt": "2015-07-28T16:54:31Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UkiHUcNolHdiejo2FLf-6egaEUU",
+      "id": "UEx1MUZSOHZuWG5UaTV4ZnNuYjNfZ0N6OXJQYkFBd19UOC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2016-07-25T08:21:43Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "ENTER THE OMEGA GATEWAY - Ep - 13",
+        "description": "Enter the Omega Gateway with Rev. Neville Johnson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KQCK3LiRr7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KQCK3LiRr7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KQCK3LiRr7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KQCK3LiRr7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi5xfsnb3_gCz9rPbAAw_T8",
+        "position": 12,
+        "resourceId": { "kind": "youtube#video", "videoId": "KQCK3LiRr7s" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "KQCK3LiRr7s",
+        "videoPublishedAt": "2016-07-24T13:25:58Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 13, "resultsPerPage": 50 }
+}

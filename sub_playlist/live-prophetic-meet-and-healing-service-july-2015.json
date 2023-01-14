@@ -1,0 +1,69 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "KuBoSuQAwIMd1-cdQOuIATShMoE",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DPL6ZDwH3UqeBHVyoTI1cPnmPAs",
+      "id": "UEx1MUZSOHZuWG5UZ3N3OFRBdnlXMGNzMzFzQUMzVnV5Uy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2015-07-28T03:13:18Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTgsw8TAvyW0cs31sAC3VuyS",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "xVlx_FHwgU8" }
+      },
+      "contentDetails": { "videoId": "xVlx_FHwgU8" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O8o0hH2aONSUy2A5HPN_nh5jtCY",
+      "id": "UEx1MUZSOHZuWG5UZ3N3OFRBdnlXMGNzMzFzQUMzVnV5Uy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2015-07-28T03:13:18Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "HEALING SERVICE 25TH JULY, 2015",
+        "description": "Healing Service with Bishop. John F Aruldoss.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3PxLtU-ZX5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3PxLtU-ZX5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3PxLtU-ZX5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3PxLtU-ZX5Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTgsw8TAvyW0cs31sAC3VuyS",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "3PxLtU-ZX5Q" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "3PxLtU-ZX5Q",
+        "videoPublishedAt": "2015-07-27T03:17:16Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 2, "resultsPerPage": 50 }
+}

@@ -1,0 +1,791 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "mtyZQTuCVA6-FDYoy7JMHOj0pSI",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "049I44PUzguOnFpIqOwNfkqkAgY",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-10-19T08:43:19Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 16",
+        "description": "AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: shorturl.at/bkDKX\n📖 To download free e-books: shorturl.at/ginIK\n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k1LM0Dra_2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k1LM0Dra_2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k1LM0Dra_2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k1LM0Dra_2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k1LM0Dra_2k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "k1LM0Dra_2k" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "k1LM0Dra_2k",
+        "videoPublishedAt": "2020-10-19T16:00:07Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zQY426qtS1y9VsQFjZ1WzJa1-Ms",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-10-12T05:37:43Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 15",
+        "description": "AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: shorturl.at/bkDKX\n📖 To download free e-books: shorturl.at/ginIK\n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8IFXUw5ZoxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8IFXUw5ZoxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8IFXUw5ZoxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8IFXUw5ZoxI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8IFXUw5ZoxI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "8IFXUw5ZoxI" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "8IFXUw5ZoxI",
+        "videoPublishedAt": "2020-10-12T16:00:10Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RkxZBm4nhme_3Ns2l9seidtnpbQ",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-10-05T04:39:21Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 14",
+        "description": "AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: shorturl.at/bkDKX\n📖 To download free e-books: shorturl.at/ginIK\n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I4zV_qJvxLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I4zV_qJvxLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I4zV_qJvxLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I4zV_qJvxLE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I4zV_qJvxLE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "I4zV_qJvxLE" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "I4zV_qJvxLE",
+        "videoPublishedAt": "2020-10-05T16:00:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vNSKj36qeQFSwJ1zYjd1KKCA3-0",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-09-26T15:22:19Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 13",
+        "description": "AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: shorturl.at/bkDKX\n📖 To download free e-books: shorturl.at/ginIK\n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UMhrub6cTjs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UMhrub6cTjs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UMhrub6cTjs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UMhrub6cTjs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UMhrub6cTjs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "UMhrub6cTjs" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "UMhrub6cTjs",
+        "videoPublishedAt": "2020-09-27T16:00:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ega0nwrsFczBzPujUu63jnDTdp8",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-09-21T04:34:05Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 12",
+        "description": "AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: shorturl.at/bkDKX\n📖 To download free e-books: shorturl.at/ginIK\n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rFgj_zPiTUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rFgj_zPiTUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rFgj_zPiTUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rFgj_zPiTUY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rFgj_zPiTUY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 4,
+        "resourceId": { "kind": "youtube#video", "videoId": "rFgj_zPiTUY" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "rFgj_zPiTUY",
+        "videoPublishedAt": "2020-09-21T16:00:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ACJpHhJkoBgSm6CZKOhfr40kwu4",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-09-11T04:37:48Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 11",
+        "description": "AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: shorturl.at/bkDKX\n📖 To download free e-books: shorturl.at/ginIK\n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mGxvLcRaZt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mGxvLcRaZt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mGxvLcRaZt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mGxvLcRaZt8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mGxvLcRaZt8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 5,
+        "resourceId": { "kind": "youtube#video", "videoId": "mGxvLcRaZt8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "mGxvLcRaZt8",
+        "videoPublishedAt": "2020-09-13T16:00:13Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nBu4FtreSSwQ8AifPSJiY1UdgLA",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-09-07T05:52:57Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 10",
+        "description": "AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: https://bit.ly/3ahMsd4\n📖 To download free e-books: https://bit.ly/2FlgBgb\n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P2edX39tpmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P2edX39tpmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P2edX39tpmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P2edX39tpmw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P2edX39tpmw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 6,
+        "resourceId": { "kind": "youtube#video", "videoId": "P2edX39tpmw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "P2edX39tpmw",
+        "videoPublishedAt": "2020-09-07T16:00:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iBLMKRhwDa8N9XyX4rsDWBDcL-A",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-09-01T06:24:36Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 9",
+        "description": "AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: https://bit.ly/3ahMsd4\n📖 To download free e-books: https://bit.ly/2FlgBgb\n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6-MuTgp4cK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6-MuTgp4cK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6-MuTgp4cK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6-MuTgp4cK8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6-MuTgp4cK8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 7,
+        "resourceId": { "kind": "youtube#video", "videoId": "6-MuTgp4cK8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "6-MuTgp4cK8",
+        "videoPublishedAt": "2020-09-01T15:30:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b4TITRhrnHcidgO0ndBthTMjk20",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-08-27T01:50:51Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 8",
+        "description": "AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: https://bit.ly/3ahMsd4\n📖 To download free e-books: https://bit.ly/2FlgBgb\n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-VIME1TfAM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-VIME1TfAM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-VIME1TfAM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-VIME1TfAM4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-VIME1TfAM4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 8,
+        "resourceId": { "kind": "youtube#video", "videoId": "-VIME1TfAM4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "-VIME1TfAM4",
+        "videoPublishedAt": "2020-08-27T15:30:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FNhGUBpgxAjzT672i2Y8gSw2XCo",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-08-15T16:11:52Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 7",
+        "description": "AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: https://bit.ly/3ahMsd4\n📖 To download free e-books: https://bit.ly/2FlgBgb\n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YhRwZ5CiMPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YhRwZ5CiMPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YhRwZ5CiMPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YhRwZ5CiMPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YhRwZ5CiMPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 9,
+        "resourceId": { "kind": "youtube#video", "videoId": "YhRwZ5CiMPA" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "YhRwZ5CiMPA",
+        "videoPublishedAt": "2020-08-16T16:00:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NEMsDSw5QcgNQ3U0olfoLhEP11Q",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-08-04T20:04:19Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 6",
+        "description": "#AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: https://bit.ly/3crSgQs\n📖 To download free e-books: https://bit.ly/3dsYuRx \n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pLv3tD3_arQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pLv3tD3_arQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pLv3tD3_arQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pLv3tD3_arQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pLv3tD3_arQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 10,
+        "resourceId": { "kind": "youtube#video", "videoId": "pLv3tD3_arQ" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "pLv3tD3_arQ",
+        "videoPublishedAt": "2020-08-09T16:00:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DUnyuEbMHaoTuw_cm3FbBluH7AE",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-08-02T13:17:38Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 5",
+        "description": "#AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: https://bit.ly/3crSgQs\n📖 To download free e-books: https://bit.ly/3dsYuRx \n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dt-a75oeo0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dt-a75oeo0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dt-a75oeo0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dt-a75oeo0A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dt-a75oeo0A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 11,
+        "resourceId": { "kind": "youtube#video", "videoId": "dt-a75oeo0A" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "dt-a75oeo0A",
+        "videoPublishedAt": "2020-08-02T16:00:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kx_IREey3aruWduF5LqZvAvYaXM",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-07-24T05:12:02Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 4",
+        "description": "#AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: https://bit.ly/3crSgQs\n📖 To download free e-books: https://bit.ly/3dsYuRx \n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WFMPEMGW0wE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WFMPEMGW0wE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WFMPEMGW0wE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WFMPEMGW0wE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WFMPEMGW0wE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 12,
+        "resourceId": { "kind": "youtube#video", "videoId": "WFMPEMGW0wE" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "WFMPEMGW0wE",
+        "videoPublishedAt": "2020-07-26T16:00:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wGEIwnCbnWOTpGZ7f7rh8FmZDqs",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-07-16T17:40:43Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 3",
+        "description": "#AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: https://bit.ly/3crSgQs\n📖 To download free e-books: https://bit.ly/3dsYuRx \n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XM4naNpMIOg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XM4naNpMIOg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XM4naNpMIOg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XM4naNpMIOg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XM4naNpMIOg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 13,
+        "resourceId": { "kind": "youtube#video", "videoId": "XM4naNpMIOg" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "XM4naNpMIOg",
+        "videoPublishedAt": "2020-07-19T16:00:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MXy9RCdOjB_RY-tQ3xsyMDd-YWQ",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-07-08T04:29:02Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 2",
+        "description": "#AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: https://bit.ly/3crSgQs\n📖 To download free e-books: https://bit.ly/3dsYuRx \n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iKazmvEahb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iKazmvEahb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iKazmvEahb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iKazmvEahb4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iKazmvEahb4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 14,
+        "resourceId": { "kind": "youtube#video", "videoId": "iKazmvEahb4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "iKazmvEahb4",
+        "videoPublishedAt": "2020-07-12T16:00:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bi_qc1NuISPb00pswphk4duQ2PI",
+      "id": "UEx1MUZSOHZuWG5UaFhKUUpfRy1TWm94cUJuU09ObXBtQi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-07-08T04:29:02Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors | Season 4 | Episode 1",
+        "description": "#AngelTV #UltimateSpiritWarriors #PaxCordova #USW\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: https://bit.ly/3crSgQs\n📖 To download free e-books: https://bit.ly/3dsYuRx \n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y5b27sKb9L8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y5b27sKb9L8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y5b27sKb9L8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y5b27sKb9L8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y5b27sKb9L8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThXJQJ_G-SZoxqBnSONmpmB",
+        "position": 15,
+        "resourceId": { "kind": "youtube#video", "videoId": "Y5b27sKb9L8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "Y5b27sKb9L8",
+        "videoPublishedAt": "2020-07-08T08:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 16, "resultsPerPage": 50 }
+}

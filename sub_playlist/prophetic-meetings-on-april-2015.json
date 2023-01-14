@@ -1,0 +1,103 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "fNsvspsH74I9Ht0JefTlpMRxeGQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9P1shMAmvu164swSE3wxwA2E5Eo",
+      "id": "UEx1MUZSOHZuWG5UaTJ2X1RXa2FtTWVKcFoyYUo2VFl4dS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2015-05-19T02:23:11Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi2v_TWkamMeJpZ2aJ6TYxu",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "ZNAm1_H9_lI" }
+      },
+      "contentDetails": { "videoId": "ZNAm1_H9_lI" },
+      "status": { "privacyStatus": "private" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JHtOtJrgIEUuw2OsYT_9KP1wFKw",
+      "id": "UEx1MUZSOHZuWG5UaTJ2X1RXa2FtTWVKcFoyYUo2VFl4dS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2015-05-19T02:25:27Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "HEALING SERVICE BY BISHOP JOHN F. ARULDOSS",
+        "description": "Healing Service on 25th April' 2015.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tafs4wvO9Uw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tafs4wvO9Uw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tafs4wvO9Uw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi2v_TWkamMeJpZ2aJ6TYxu",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "tafs4wvO9Uw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "tafs4wvO9Uw",
+        "videoPublishedAt": "2015-04-29T03:43:52Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "20kcPBoS2pfRTxE063yk8MwomQc",
+      "id": "UEx1MUZSOHZuWG5UaTJ2X1RXa2FtTWVKcFoyYUo2VFl4dS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2015-05-19T02:25:27Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "HEALING SERVICE WORSHIP SESSION",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UCCGrkeN3TI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UCCGrkeN3TI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UCCGrkeN3TI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi2v_TWkamMeJpZ2aJ6TYxu",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "UCCGrkeN3TI" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "UCCGrkeN3TI",
+        "videoPublishedAt": "2015-04-30T23:58:23Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 3, "resultsPerPage": 50 }
+}

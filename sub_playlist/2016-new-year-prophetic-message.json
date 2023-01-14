@@ -1,0 +1,69 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "jrEP-2Vc-3RjLaankPWGnwNbQiw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0qRVKfl2jfR8dMR8C17ESEg2pVQ",
+      "id": "UEx1MUZSOHZuWG5UZ3FNREU0Z2hVVER2TWtUTDRhZ0N1VS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2016-02-24T07:55:29Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "2016 NEW YEAR PROPHETIC MESSAGE BY BISHOP JOHN F ARULDOSS",
+        "description": "Live Prophetic Meet 01.01.2016",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7KES1P-I1_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7KES1P-I1_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7KES1P-I1_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7KES1P-I1_g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTgqMDE4ghUTDvMkTL4agCuU",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "7KES1P-I1_g" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "7KES1P-I1_g",
+        "videoPublishedAt": "2016-01-29T10:11:26Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ejuFNSa9ThjxUoElCEv2w-ZcCU8",
+      "id": "UEx1MUZSOHZuWG5UZ3FNREU0Z2hVVER2TWtUTDRhZ0N1VS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2016-02-24T07:55:29Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTgqMDE4ghUTDvMkTL4agCuU",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "RNlrSCUc8p0" }
+      },
+      "contentDetails": { "videoId": "RNlrSCUc8p0" },
+      "status": { "privacyStatus": "private" }
+    }
+  ],
+  "pageInfo": { "totalResults": 2, "resultsPerPage": 50 }
+}

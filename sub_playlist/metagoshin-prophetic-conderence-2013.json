@@ -1,0 +1,25 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "Otu0Rt6BYPDd5KliZOTSwVL2R7A",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ip72m7BflamG0gA2t7GMMa1BDrI",
+      "id": "UEx1MUZSOHZuWG5UZzRaNExsODIxMjJaY3NfM3VaQzZ0di41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2015-02-26T03:22:11Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTg4Z4Ll82122Zcs_3uZC6tv",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "4HXh9zZppVE" }
+      },
+      "contentDetails": { "videoId": "4HXh9zZppVE" },
+      "status": { "privacyStatus": "private" }
+    }
+  ],
+  "pageInfo": { "totalResults": 1, "resultsPerPage": 50 }
+}

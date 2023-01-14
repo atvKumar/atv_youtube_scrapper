@@ -1,0 +1,2458 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "ClD-FC5EL0P2yi01cIo3GmvFaUQ",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v_mLh0nzp0u3KOLNBv5DjGeNWdY",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS41ODIyMTgwQzA4NjJCQkZC",
+      "snippet": {
+        "publishedAt": "2022-06-15T04:06:26Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 97",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XaJlSrsoSHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XaJlSrsoSHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XaJlSrsoSHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XaJlSrsoSHw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XaJlSrsoSHw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "XaJlSrsoSHw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "XaJlSrsoSHw",
+        "videoPublishedAt": "2022-06-15T16:30:13Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ivwcIlJcKS4JgSBjLYUtMK_Ces0",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS5FRjdGNDMzN0I2RTI3MDlG",
+      "snippet": {
+        "publishedAt": "2022-06-06T04:25:58Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 96",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zMCTC4c1dQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zMCTC4c1dQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zMCTC4c1dQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zMCTC4c1dQA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zMCTC4c1dQA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "zMCTC4c1dQA" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "zMCTC4c1dQA",
+        "videoPublishedAt": "2022-06-08T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7HyTqZQeUoP0ER8oL0v3VyVCnKY",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS41RDUzRjJFQ0Y0MUI3NzU1",
+      "snippet": {
+        "publishedAt": "2022-06-01T04:27:20Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 95",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zVVib2_h-qc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zVVib2_h-qc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zVVib2_h-qc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zVVib2_h-qc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zVVib2_h-qc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "zVVib2_h-qc" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "zVVib2_h-qc",
+        "videoPublishedAt": "2022-06-01T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2CXKKaJIXnse4WYUwH6aFHqJ31I",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS5ERENFNTk4Q0Q2MTZDMTA5",
+      "snippet": {
+        "publishedAt": "2022-05-24T09:59:04Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 94",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r2r29fsL2EQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r2r29fsL2EQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r2r29fsL2EQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r2r29fsL2EQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r2r29fsL2EQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "r2r29fsL2EQ" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "r2r29fsL2EQ",
+        "videoPublishedAt": "2022-05-25T16:30:13Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w3Fx_38fkYnzrXxRWVURAZhfMsg",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4yM0EyQ0U1M0I2RkIwNTQ0",
+      "snippet": {
+        "publishedAt": "2022-05-18T01:50:24Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 93",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/24rBQAC7dNo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/24rBQAC7dNo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/24rBQAC7dNo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/24rBQAC7dNo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/24rBQAC7dNo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 4,
+        "resourceId": { "kind": "youtube#video", "videoId": "24rBQAC7dNo" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "24rBQAC7dNo",
+        "videoPublishedAt": "2022-05-18T16:30:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FW16UYEA69cy4rDeE9gtH_UdymI",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS5DQjg2RDQyMEVGQkZFOEVF",
+      "snippet": {
+        "publishedAt": "2022-05-04T03:48:55Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 91",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jl1AZhQF7FQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jl1AZhQF7FQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jl1AZhQF7FQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jl1AZhQF7FQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jl1AZhQF7FQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 5,
+        "resourceId": { "kind": "youtube#video", "videoId": "jl1AZhQF7FQ" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "jl1AZhQF7FQ",
+        "videoPublishedAt": "2022-05-04T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6I84xpVs7wNpy1KSztxh8yatndQ",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4wQUE0QzM4MkJGQ0YwQjUx",
+      "snippet": {
+        "publishedAt": "2022-04-24T14:28:59Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 90",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ivvwlzYIT7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ivvwlzYIT7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ivvwlzYIT7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ivvwlzYIT7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ivvwlzYIT7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 6,
+        "resourceId": { "kind": "youtube#video", "videoId": "ivvwlzYIT7s" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "ivvwlzYIT7s",
+        "videoPublishedAt": "2022-04-27T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-dauT0Bxz1lAPGLvuB2a1X-BriU",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS5GMDBDNkJGMzYzREUyMTYw",
+      "snippet": {
+        "publishedAt": "2022-04-20T09:18:24Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 89",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OTgxut7Zdd8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OTgxut7Zdd8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OTgxut7Zdd8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OTgxut7Zdd8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OTgxut7Zdd8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 7,
+        "resourceId": { "kind": "youtube#video", "videoId": "OTgxut7Zdd8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "OTgxut7Zdd8",
+        "videoPublishedAt": "2022-04-20T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EFNZF6CaGurbANkJyf0AeVxyB44",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS5CMUM0NzY5NzdEQzlGRjAx",
+      "snippet": {
+        "publishedAt": "2022-04-13T03:47:23Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 88",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NFvC7qpOeg4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NFvC7qpOeg4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NFvC7qpOeg4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NFvC7qpOeg4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NFvC7qpOeg4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 8,
+        "resourceId": { "kind": "youtube#video", "videoId": "NFvC7qpOeg4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "NFvC7qpOeg4",
+        "videoPublishedAt": "2022-04-13T16:30:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nPz-tq2UJSSXwZ2xSaypqKLLNhI",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS44MkM2RjVEQkQ5N0I2MjVE",
+      "snippet": {
+        "publishedAt": "2022-03-03T11:36:44Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 87",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N103uZgMDNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N103uZgMDNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N103uZgMDNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N103uZgMDNw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N103uZgMDNw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 9,
+        "resourceId": { "kind": "youtube#video", "videoId": "N103uZgMDNw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "N103uZgMDNw",
+        "videoPublishedAt": "2022-04-06T16:30:13Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8AuY0yqOU8jFJwvUA9cWyd6Rhs8",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS5EMzJDRTUwQjBEOUVFQzAw",
+      "snippet": {
+        "publishedAt": "2022-03-24T04:32:35Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 85",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DS8-yEtdJvI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DS8-yEtdJvI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DS8-yEtdJvI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DS8-yEtdJvI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DS8-yEtdJvI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 10,
+        "resourceId": { "kind": "youtube#video", "videoId": "DS8-yEtdJvI" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "DS8-yEtdJvI",
+        "videoPublishedAt": "2022-03-24T16:30:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-RrGO2cEaXNzKEN-RZfKLPiCJx4",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4wMDFGNzBEOTU4Q0Y1Q0RG",
+      "snippet": {
+        "publishedAt": "2022-03-01T05:25:20Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 84",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KYX9mrFqk-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KYX9mrFqk-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KYX9mrFqk-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KYX9mrFqk-8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KYX9mrFqk-8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 11,
+        "resourceId": { "kind": "youtube#video", "videoId": "KYX9mrFqk-8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "KYX9mrFqk-8",
+        "videoPublishedAt": "2022-03-17T16:30:10Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZeQ1Mz8bCMqpEu74Wp-ZvdFgUo0",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS44QTA1QTQyRTc3M0VGQzYx",
+      "snippet": {
+        "publishedAt": "2022-03-01T05:26:51Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 83",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zrTj_1HnJTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zrTj_1HnJTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zrTj_1HnJTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zrTj_1HnJTc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zrTj_1HnJTc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 12,
+        "resourceId": { "kind": "youtube#video", "videoId": "zrTj_1HnJTc" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "zrTj_1HnJTc",
+        "videoPublishedAt": "2022-03-02T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OFZcDvlBSPCt-4fNUzrrU7Wmvyc",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4xNTZBNUQxMDZBQzFGMjkw",
+      "snippet": {
+        "publishedAt": "2022-02-16T03:54:56Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 82",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k-4J8s_pIv8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k-4J8s_pIv8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k-4J8s_pIv8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k-4J8s_pIv8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k-4J8s_pIv8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 13,
+        "resourceId": { "kind": "youtube#video", "videoId": "k-4J8s_pIv8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "k-4J8s_pIv8",
+        "videoPublishedAt": "2022-02-16T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-GFCMItAKxmqu96E9k26rWa4MwY",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4zQTkzRjgxRTY0OEU0MkM3",
+      "snippet": {
+        "publishedAt": "2022-02-09T04:21:31Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 81",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fs9jhSn4LAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fs9jhSn4LAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fs9jhSn4LAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fs9jhSn4LAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fs9jhSn4LAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 14,
+        "resourceId": { "kind": "youtube#video", "videoId": "fs9jhSn4LAA" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "fs9jhSn4LAA",
+        "videoPublishedAt": "2022-02-09T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WMqqZoXpk0ta3lYDCmVtC-mby7s",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS44QTY2MEEzNzBFQUJCMUQ2",
+      "snippet": {
+        "publishedAt": "2022-02-02T03:52:07Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 80",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pbn3ae6tfbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pbn3ae6tfbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pbn3ae6tfbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pbn3ae6tfbM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pbn3ae6tfbM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 15,
+        "resourceId": { "kind": "youtube#video", "videoId": "Pbn3ae6tfbM" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "Pbn3ae6tfbM",
+        "videoPublishedAt": "2022-02-02T16:30:13Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f5BO-2vdiCFb6xg47geL7NA15Gg",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4xNjIyNEE0MDEyRDlCMjBE",
+      "snippet": {
+        "publishedAt": "2022-01-27T07:31:14Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 79",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FzMABin7zrY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FzMABin7zrY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FzMABin7zrY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FzMABin7zrY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FzMABin7zrY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 16,
+        "resourceId": { "kind": "youtube#video", "videoId": "FzMABin7zrY" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "FzMABin7zrY",
+        "videoPublishedAt": "2022-01-27T16:30:15Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Hwly7FhuMDXXtCjxepWAZCxoKrk",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS5CMEVBRUJERkUyNTBENTkz",
+      "snippet": {
+        "publishedAt": "2022-01-19T05:55:04Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 78",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5SUEmrOf24w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5SUEmrOf24w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5SUEmrOf24w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5SUEmrOf24w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5SUEmrOf24w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 17,
+        "resourceId": { "kind": "youtube#video", "videoId": "5SUEmrOf24w" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "5SUEmrOf24w",
+        "videoPublishedAt": "2022-01-19T16:30:13Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IBX7Ln12vmjQM-Jh3V2BN07HKRY",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS40MDNEMzA0QTBFRThFMzBE",
+      "snippet": {
+        "publishedAt": "2022-01-13T11:23:37Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 77",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dIFAIH9R63g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dIFAIH9R63g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dIFAIH9R63g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dIFAIH9R63g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dIFAIH9R63g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 18,
+        "resourceId": { "kind": "youtube#video", "videoId": "dIFAIH9R63g" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "dIFAIH9R63g",
+        "videoPublishedAt": "2022-01-12T16:30:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Hb0OnG-IrqlsX-74Kdx2OZzclWM",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS42MjYzMTMyQjA0QURCN0JF",
+      "snippet": {
+        "publishedAt": "2022-01-07T06:02:08Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 76",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DLKMRu7GUak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DLKMRu7GUak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DLKMRu7GUak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DLKMRu7GUak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DLKMRu7GUak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 19,
+        "resourceId": { "kind": "youtube#video", "videoId": "DLKMRu7GUak" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "DLKMRu7GUak",
+        "videoPublishedAt": "2022-01-07T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "635BRHgy-sOhQqeNAySin6mndM0",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS5ERkUyQTM0MzEwQjZCMTY5",
+      "snippet": {
+        "publishedAt": "2021-12-17T06:33:35Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 75",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iCxbob4vs5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iCxbob4vs5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iCxbob4vs5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iCxbob4vs5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iCxbob4vs5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 20,
+        "resourceId": { "kind": "youtube#video", "videoId": "iCxbob4vs5k" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "iCxbob4vs5k",
+        "videoPublishedAt": "2021-12-29T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TSivJUCAykO9q32UNIIUjjYLE_A",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4xM0YyM0RDNDE4REQ1NDA0",
+      "snippet": {
+        "publishedAt": "2021-12-22T05:57:10Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 74",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VlSuhuPKdjI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VlSuhuPKdjI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VlSuhuPKdjI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VlSuhuPKdjI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VlSuhuPKdjI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 21,
+        "resourceId": { "kind": "youtube#video", "videoId": "VlSuhuPKdjI" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "VlSuhuPKdjI",
+        "videoPublishedAt": "2021-12-22T16:30:09Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WWsv0w7BuXOGRmOU7kTGfPKojh8",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS45NDlDQUFFOThDMTAxQjUw",
+      "snippet": {
+        "publishedAt": "2022-01-13T11:28:26Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 73",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TSNKVDBMN-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TSNKVDBMN-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TSNKVDBMN-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TSNKVDBMN-M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TSNKVDBMN-M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 22,
+        "resourceId": { "kind": "youtube#video", "videoId": "TSNKVDBMN-M" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "TSNKVDBMN-M",
+        "videoPublishedAt": "2021-12-15T16:30:13Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NIhzmknmcYRVGTJkySz40Lwx0Pw",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS5CNTcxMDQ0NThBNzMxODYz",
+      "snippet": {
+        "publishedAt": "2021-12-08T04:15:00Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 72",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eyS8fcsH5e4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eyS8fcsH5e4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eyS8fcsH5e4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eyS8fcsH5e4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eyS8fcsH5e4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 23,
+        "resourceId": { "kind": "youtube#video", "videoId": "eyS8fcsH5e4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "eyS8fcsH5e4",
+        "videoPublishedAt": "2021-12-08T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6GJgrf0ajeKio36WHjplYTd5St0",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4wRjhFM0MxMTU1MEUzQ0VB",
+      "snippet": {
+        "publishedAt": "2021-11-23T05:18:54Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 71",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sNIIwENS-0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sNIIwENS-0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sNIIwENS-0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sNIIwENS-0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sNIIwENS-0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 24,
+        "resourceId": { "kind": "youtube#video", "videoId": "sNIIwENS-0c" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "sNIIwENS-0c",
+        "videoPublishedAt": "2021-12-02T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rj1qD9EteGAEmayI2IVvVY6IMtE",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS41OURENDc2NEM1MDI5Mjky",
+      "snippet": {
+        "publishedAt": "2021-11-23T05:17:47Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 70",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CuW24e_76jI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CuW24e_76jI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CuW24e_76jI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CuW24e_76jI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CuW24e_76jI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 25,
+        "resourceId": { "kind": "youtube#video", "videoId": "CuW24e_76jI" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "CuW24e_76jI",
+        "videoPublishedAt": "2021-11-24T16:30:37Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HLme0eYd7DIURns4ZZQ_C-xa5Zk",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS42QzdBMzlBQzQzRjQ0QkQy",
+      "snippet": {
+        "publishedAt": "2021-11-16T04:55:28Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 69",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/szbZc2yV8S8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/szbZc2yV8S8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/szbZc2yV8S8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/szbZc2yV8S8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/szbZc2yV8S8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 26,
+        "resourceId": { "kind": "youtube#video", "videoId": "szbZc2yV8S8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "szbZc2yV8S8",
+        "videoPublishedAt": "2021-11-17T16:30:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AbpK6Nvj5P-FemPszk2afkab7AA",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4zMUEyMkQwOTk0NTg4MDgw",
+      "snippet": {
+        "publishedAt": "2021-11-12T05:19:06Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 68",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2elXCMj6ZQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2elXCMj6ZQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2elXCMj6ZQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2elXCMj6ZQs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2elXCMj6ZQs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 27,
+        "resourceId": { "kind": "youtube#video", "videoId": "2elXCMj6ZQs" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "2elXCMj6ZQs",
+        "videoPublishedAt": "2021-11-12T16:30:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yL7_fKo-5WtDQAQVNeDsxlhCJ10",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4wMTYxQzVBRDI1NEVDQUZE",
+      "snippet": {
+        "publishedAt": "2021-11-02T06:05:15Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 67",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AcINggQBxTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AcINggQBxTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AcINggQBxTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AcINggQBxTc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AcINggQBxTc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 28,
+        "resourceId": { "kind": "youtube#video", "videoId": "AcINggQBxTc" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "AcINggQBxTc",
+        "videoPublishedAt": "2021-11-03T16:30:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O5vP0Uoaz0plAEmWTJq-TTPyIHE",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4yQzk4QTA5QjkzMTFFOEI1",
+      "snippet": {
+        "publishedAt": "2022-01-13T11:27:53Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 66",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/68Hjd5OmYaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/68Hjd5OmYaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/68Hjd5OmYaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/68Hjd5OmYaM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/68Hjd5OmYaM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 29,
+        "resourceId": { "kind": "youtube#video", "videoId": "68Hjd5OmYaM" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "68Hjd5OmYaM",
+        "videoPublishedAt": "2021-10-27T16:30:09Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LixlKyW9WKgeUSVYuqOK2kuNxtM",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS5EQkE3RTJCQTJEQkFBQTcz",
+      "snippet": {
+        "publishedAt": "2022-01-13T11:26:18Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 65",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W-jLqUnTxeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W-jLqUnTxeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W-jLqUnTxeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W-jLqUnTxeM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W-jLqUnTxeM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 30,
+        "resourceId": { "kind": "youtube#video", "videoId": "W-jLqUnTxeM" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "W-jLqUnTxeM",
+        "videoPublishedAt": "2021-10-20T16:30:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HDiROD5Qh97IjQMowvfluq43uEI",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS43QzNCNkZENzIyMDY2MjZB",
+      "snippet": {
+        "publishedAt": "2022-01-13T11:25:52Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 64",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bnnn-iLBNEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bnnn-iLBNEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bnnn-iLBNEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bnnn-iLBNEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bnnn-iLBNEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 31,
+        "resourceId": { "kind": "youtube#video", "videoId": "Bnnn-iLBNEY" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "Bnnn-iLBNEY",
+        "videoPublishedAt": "2021-10-13T16:30:09Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ttccmOIZ_Q9hGz6iWKivMyWFcT0",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4wNEU1MTI4NkZEMzVBN0JF",
+      "snippet": {
+        "publishedAt": "2021-10-07T10:39:22Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 63",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #MarkJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OSooC0NmIVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OSooC0NmIVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OSooC0NmIVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OSooC0NmIVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OSooC0NmIVc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 32,
+        "resourceId": { "kind": "youtube#video", "videoId": "OSooC0NmIVc" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "OSooC0NmIVc",
+        "videoPublishedAt": "2021-10-07T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Gzwv_FnrxsAi2J83pOFFun9pjMg",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS5CQkEwRDA0MDkwNUM2MDY1",
+      "snippet": {
+        "publishedAt": "2021-09-15T10:48:29Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Neville Johnson | Episode 62",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #Forerunners\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2UnxXDg0hTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2UnxXDg0hTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2UnxXDg0hTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2UnxXDg0hTA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2UnxXDg0hTA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 33,
+        "resourceId": { "kind": "youtube#video", "videoId": "2UnxXDg0hTA" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "2UnxXDg0hTA",
+        "videoPublishedAt": "2021-09-22T16:30:09Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ssUvEzKtUPvukDwSvHCWEREvLNg",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS5GNjAwN0Y0QTFGOTVDMEMy",
+      "snippet": {
+        "publishedAt": "2021-09-15T10:06:20Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Neville Johnson | Episode 61",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3RAcUMnG0zk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3RAcUMnG0zk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3RAcUMnG0zk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3RAcUMnG0zk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3RAcUMnG0zk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 34,
+        "resourceId": { "kind": "youtube#video", "videoId": "3RAcUMnG0zk" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "3RAcUMnG0zk",
+        "videoPublishedAt": "2021-09-15T16:30:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OBh5urC6CnpX2KV_TJt5cXAvdMQ",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS43NERCMDIzQzFBMERCMEE3",
+      "snippet": {
+        "publishedAt": "2021-09-09T11:10:37Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Neville Johnson | Episode 60",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: https://www.jesusministries.org/jmwebstore/donation.php\n📖 To download free e-books: https://www.jesusministries.org/jmwebstore/index.php\n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mZ4H1G4J0Rg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mZ4H1G4J0Rg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mZ4H1G4J0Rg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mZ4H1G4J0Rg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mZ4H1G4J0Rg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 35,
+        "resourceId": { "kind": "youtube#video", "videoId": "mZ4H1G4J0Rg" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "mZ4H1G4J0Rg",
+        "videoPublishedAt": "2021-09-09T16:30:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8xAKTYrYCkO8K10wQNoOyBSFjuI",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS5CNTZFOTNGQzZEODg1RUQx",
+      "snippet": {
+        "publishedAt": "2021-12-02T05:03:09Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Neville Johnson | Episode 59",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OaCnZBRNE5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OaCnZBRNE5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OaCnZBRNE5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OaCnZBRNE5o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OaCnZBRNE5o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 36,
+        "resourceId": { "kind": "youtube#video", "videoId": "OaCnZBRNE5o" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "OaCnZBRNE5o",
+        "videoPublishedAt": "2021-09-01T16:30:09Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KLfJb2ye0OGimpIG5qKXsVVBI5c",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS41NTZEOThBNThFOUVGQkVB",
+      "snippet": {
+        "publishedAt": "2021-08-24T06:01:11Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Neville Johnson | Episode 58",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JRaC4z_sN-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JRaC4z_sN-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JRaC4z_sN-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JRaC4z_sN-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JRaC4z_sN-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 37,
+        "resourceId": { "kind": "youtube#video", "videoId": "JRaC4z_sN-0" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "JRaC4z_sN-0",
+        "videoPublishedAt": "2021-08-25T16:30:09Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p0No9KyYtCkKHQpw1KV05Ikoacw",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS42RTNCOEMxREI3Q0VDMjU2",
+      "snippet": {
+        "publishedAt": "2022-01-13T11:24:41Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Neville Johnson | Episode 57",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iTG3ePyelPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iTG3ePyelPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iTG3ePyelPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iTG3ePyelPM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iTG3ePyelPM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 38,
+        "resourceId": { "kind": "youtube#video", "videoId": "iTG3ePyelPM" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "iTG3ePyelPM",
+        "videoPublishedAt": "2021-08-18T16:30:09Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r0CyiEpX9n47cpJBZPB-PmjAWIo",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS42Qzk5MkEzQjVFQjYwRDA4",
+      "snippet": {
+        "publishedAt": "2021-08-11T04:34:30Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Neville Johnson | Episode 56",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rXpRPeR3SXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rXpRPeR3SXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rXpRPeR3SXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rXpRPeR3SXg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rXpRPeR3SXg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 39,
+        "resourceId": { "kind": "youtube#video", "videoId": "rXpRPeR3SXg" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "rXpRPeR3SXg",
+        "videoPublishedAt": "2021-08-11T16:30:15Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IdiMV54e39QRcDRidhtyKU7WJKI",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4xN0Y2QjVBOEI2MzQ5OUM5",
+      "snippet": {
+        "publishedAt": "2022-01-13T11:30:20Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 55",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lc_4yCW4ScQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lc_4yCW4ScQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lc_4yCW4ScQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lc_4yCW4ScQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lc_4yCW4ScQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 40,
+        "resourceId": { "kind": "youtube#video", "videoId": "lc_4yCW4ScQ" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "lc_4yCW4ScQ",
+        "videoPublishedAt": "2021-08-04T16:30:10Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K5qMaOIm2QITfAtGf8jxhyVxxls",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS5FQUY2Qzk4RUFDN0ZFRkZF",
+      "snippet": {
+        "publishedAt": "2022-01-13T11:32:24Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 54",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7D6uSF1sL7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7D6uSF1sL7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7D6uSF1sL7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7D6uSF1sL7Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7D6uSF1sL7Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 41,
+        "resourceId": { "kind": "youtube#video", "videoId": "7D6uSF1sL7Q" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "7D6uSF1sL7Q",
+        "videoPublishedAt": "2021-07-28T16:30:14Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i5spvDurAz5o4uCjTXWjm6kIBBc",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4zMEQ1MEIyRTFGNzhDQzFB",
+      "snippet": {
+        "publishedAt": "2021-07-22T05:50:15Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Neville Johnson | Episode 53",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DjjCUfF4fvE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DjjCUfF4fvE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DjjCUfF4fvE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DjjCUfF4fvE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DjjCUfF4fvE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 42,
+        "resourceId": { "kind": "youtube#video", "videoId": "DjjCUfF4fvE" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "DjjCUfF4fvE",
+        "videoPublishedAt": "2021-07-21T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4UXPaYAePS3oCir78oStu5i72ew",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4xMzgwMzBERjQ4NjEzNUE5",
+      "snippet": {
+        "publishedAt": "2021-07-15T04:39:26Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Neville Johnson | Episode 52",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n$ Contribute to Angel TV: https://www.jesusministries.org/jmwebstore/donation.php\n📖 To download free e-books: https://www.jesusministries.org/jmwebstore/index.php\n💻 Angel TV: https://www.angeltv.org\n💻 Jesus Ministries: https://www.jesusministries.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j6Akfng3eSg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j6Akfng3eSg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j6Akfng3eSg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j6Akfng3eSg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j6Akfng3eSg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 43,
+        "resourceId": { "kind": "youtube#video", "videoId": "j6Akfng3eSg" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "j6Akfng3eSg",
+        "videoPublishedAt": "2021-07-17T16:30:10Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1HMf3d-ru9iL64s4Ty4WJNIIGDs",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2021-07-06T10:12:33Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Neville Johnson | Episode 51",
+        "description": "✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FyehAu4St8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FyehAu4St8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FyehAu4St8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FyehAu4St8Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FyehAu4St8Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 44,
+        "resourceId": { "kind": "youtube#video", "videoId": "FyehAu4St8Q" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "FyehAu4St8Q",
+        "videoPublishedAt": "2021-07-07T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Tze9L-QIajWz0rsR8TE7J2IdYG4",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2021-07-06T10:12:33Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Neville Johnson | Episode 50",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eo9K5PCRiK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eo9K5PCRiK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eo9K5PCRiK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eo9K5PCRiK8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eo9K5PCRiK8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 45,
+        "resourceId": { "kind": "youtube#video", "videoId": "eo9K5PCRiK8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "eo9K5PCRiK8",
+        "videoPublishedAt": "2021-06-30T16:30:13Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cB25iM_mrLofy1AnYsDgiY-5X9w",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2021-06-23T03:21:15Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Neville Johnson | Episode 49",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o3pq-YI2ne4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o3pq-YI2ne4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o3pq-YI2ne4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o3pq-YI2ne4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o3pq-YI2ne4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 46,
+        "resourceId": { "kind": "youtube#video", "videoId": "o3pq-YI2ne4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "o3pq-YI2ne4",
+        "videoPublishedAt": "2021-06-23T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "81dU7QiDpHV55iXIXrqK4Vgpn74",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2021-06-17T11:58:30Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Mark Johnson | Episode 48",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson #Mark Johnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LIYuWLT64Ek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LIYuWLT64Ek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LIYuWLT64Ek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LIYuWLT64Ek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LIYuWLT64Ek/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 47,
+        "resourceId": { "kind": "youtube#video", "videoId": "LIYuWLT64Ek" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "LIYuWLT64Ek",
+        "videoPublishedAt": "2021-06-17T16:30:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Yc_EoqbRdGGM4fH72U2x0LtyU4Y",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2021-06-09T15:06:49Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Neville Johnson | Episode 47",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yPFkKuT8b7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yPFkKuT8b7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yPFkKuT8b7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yPFkKuT8b7o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yPFkKuT8b7o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 48,
+        "resourceId": { "kind": "youtube#video", "videoId": "yPFkKuT8b7o" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "yPFkKuT8b7o",
+        "videoPublishedAt": "2021-06-09T16:30:10Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_KJPEe6wHi8ylkS0usWBzZ99iSI",
+      "id": "UEx1MUZSOHZuWG5UaEN4YTE0a1VuUThHTUJ6LXBWbkpMVS4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2021-06-05T01:27:13Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Word of the Lord | Neville Johnson | Episode 46",
+        "description": "#AngelTV #WordoftheLord #NevilleJohnson\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VZB22iC3fXU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VZB22iC3fXU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VZB22iC3fXU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VZB22iC3fXU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VZB22iC3fXU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnThCxa14kUnQ8GMBz-pVnJLU",
+        "position": 49,
+        "resourceId": { "kind": "youtube#video", "videoId": "VZB22iC3fXU" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "VZB22iC3fXU",
+        "videoPublishedAt": "2021-06-02T16:30:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 95, "resultsPerPage": 50 }
+}

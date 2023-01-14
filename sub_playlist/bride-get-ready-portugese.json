@@ -1,0 +1,350 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "2ma4MHVRtsdAU8G_COBKWAWbRGI",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EAUUrrMBZUae0jZ6d6xUiNUke1Y",
+      "id": "UEx1MUZSOHZuWG5UaWZnQl9zSEhSeGdvQThpdEpXR2k3My4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2017-10-11T04:41:21Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "BRIDE GET READY - Ep - 1 | PORTUGUESE",
+        "description": "Facebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kSsNYcaA7O4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kSsNYcaA7O4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kSsNYcaA7O4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kSsNYcaA7O4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kSsNYcaA7O4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifgB_sHHRxgoA8itJWGi73",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "kSsNYcaA7O4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "kSsNYcaA7O4",
+        "videoPublishedAt": "2017-10-03T05:58:06Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qcdfRFtiYoq0Kpvm9GMufg8FgeM",
+      "id": "UEx1MUZSOHZuWG5UaWZnQl9zSEhSeGdvQThpdEpXR2k3My41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2017-10-11T04:41:21Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "BRIDE GET READY - Ep - 2 | PORTUGUESE",
+        "description": "Facebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xp9H_dJ9log/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xp9H_dJ9log/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xp9H_dJ9log/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xp9H_dJ9log/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xp9H_dJ9log/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifgB_sHHRxgoA8itJWGi73",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "xp9H_dJ9log" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "xp9H_dJ9log",
+        "videoPublishedAt": "2017-10-04T06:36:34Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RUJwtZVQiHrsNoq7-WjNR7kjluU",
+      "id": "UEx1MUZSOHZuWG5UaWZnQl9zSEhSeGdvQThpdEpXR2k3My4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2017-10-11T04:41:21Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Bride Get Ready - Ep - 3 | PORTUGUESE",
+        "description": "Facebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tnBIfVaX__M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tnBIfVaX__M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tnBIfVaX__M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tnBIfVaX__M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tnBIfVaX__M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifgB_sHHRxgoA8itJWGi73",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "tnBIfVaX__M" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "tnBIfVaX__M",
+        "videoPublishedAt": "2017-10-06T09:09:44Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mEGhIseR1vOAQefrZ-4iAbZjUWM",
+      "id": "UEx1MUZSOHZuWG5UaWZnQl9zSEhSeGdvQThpdEpXR2k3My41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2017-10-11T04:40:51Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Bride Get Ready - Ep - 4 | PORTUGUESE",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/92CyJsRYXMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/92CyJsRYXMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/92CyJsRYXMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/92CyJsRYXMY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/92CyJsRYXMY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifgB_sHHRxgoA8itJWGi73",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "92CyJsRYXMY" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "92CyJsRYXMY",
+        "videoPublishedAt": "2017-10-10T10:59:02Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lifb90wPmcQzJ_oW0N1fuIA3-Uk",
+      "id": "UEx1MUZSOHZuWG5UaWZnQl9zSEhSeGdvQThpdEpXR2k3My4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2017-10-16T11:27:17Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Bride Get Ready - Ep - 5 | PORTUGUESE",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0lG4RGF21CM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0lG4RGF21CM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0lG4RGF21CM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0lG4RGF21CM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0lG4RGF21CM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifgB_sHHRxgoA8itJWGi73",
+        "position": 4,
+        "resourceId": { "kind": "youtube#video", "videoId": "0lG4RGF21CM" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "0lG4RGF21CM",
+        "videoPublishedAt": "2017-10-16T11:27:07Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AbVqZ34izobGOcJ9U2bSmA2hdrs",
+      "id": "UEx1MUZSOHZuWG5UaWZnQl9zSEhSeGdvQThpdEpXR2k3My45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2017-11-08T11:43:54Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Bride Get Ready - Ep - 6 | PORTUGUESE",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X5kliy1N9Hk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X5kliy1N9Hk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X5kliy1N9Hk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X5kliy1N9Hk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X5kliy1N9Hk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifgB_sHHRxgoA8itJWGi73",
+        "position": 5,
+        "resourceId": { "kind": "youtube#video", "videoId": "X5kliy1N9Hk" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "X5kliy1N9Hk",
+        "videoPublishedAt": "2017-11-08T11:43:40Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lZq6ZSdeWTLC34pAiRcP47iWgK4",
+      "id": "UEx1MUZSOHZuWG5UaWZnQl9zSEhSeGdvQThpdEpXR2k3My40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2017-11-13T08:51:17Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Bride Get Ready - Ep - 7 | PORTUGUESE",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dbMob0yr5n4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dbMob0yr5n4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dbMob0yr5n4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dbMob0yr5n4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dbMob0yr5n4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifgB_sHHRxgoA8itJWGi73",
+        "position": 6,
+        "resourceId": { "kind": "youtube#video", "videoId": "dbMob0yr5n4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "dbMob0yr5n4",
+        "videoPublishedAt": "2017-11-13T08:51:06Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 7, "resultsPerPage": 50 }
+}

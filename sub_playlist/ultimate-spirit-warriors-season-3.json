@@ -1,0 +1,742 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "DUS_dAKWclkg3QEp1QtZw1WKbyQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7f7v31M5fFmU7zuQPbbLcJSkLLQ",
+      "id": "UEx1MUZSOHZuWG5UaTgyZWNlTlRTaEJJdFRIQkFsVW1BMi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-04-02T02:38:00Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 3) - Episode 1 | Season Introduction",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y948P_J_tho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y948P_J_tho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y948P_J_tho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y948P_J_tho/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y948P_J_tho/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi82eceNTShBItTHBAlUmA2",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "y948P_J_tho" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "y948P_J_tho",
+        "videoPublishedAt": "2018-04-02T02:37:43Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "y50j9au3gR-6SI1eeW9zzMFV3J4",
+      "id": "UEx1MUZSOHZuWG5UaTgyZWNlTlRTaEJJdFRIQkFsVW1BMi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-04-09T10:07:35Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 3) - Episode 2 | The Four Scrolls",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xSXd7cmvEyk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xSXd7cmvEyk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xSXd7cmvEyk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xSXd7cmvEyk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xSXd7cmvEyk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi82eceNTShBItTHBAlUmA2",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "xSXd7cmvEyk" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "xSXd7cmvEyk",
+        "videoPublishedAt": "2018-04-09T10:07:18Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YHZiFp0P3oOGlzLT4AcrV4VWx9k",
+      "id": "UEx1MUZSOHZuWG5UaTgyZWNlTlRTaEJJdFRIQkFsVW1BMi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-04-17T10:30:20Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 3) - Episode 3 | The Four Scrolls",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5K-r9-kGAOs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5K-r9-kGAOs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5K-r9-kGAOs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5K-r9-kGAOs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5K-r9-kGAOs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi82eceNTShBItTHBAlUmA2",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "5K-r9-kGAOs" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "5K-r9-kGAOs",
+        "videoPublishedAt": "2018-04-17T10:30:00Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lvYQFrLsPzS4GtvWEhM2VnXQuTc",
+      "id": "UEx1MUZSOHZuWG5UaTgyZWNlTlRTaEJJdFRIQkFsVW1BMi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-04-24T05:06:21Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 3) - Episode 5 | Carry Your Cross",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XYnJeK2gqsw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XYnJeK2gqsw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XYnJeK2gqsw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XYnJeK2gqsw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XYnJeK2gqsw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi82eceNTShBItTHBAlUmA2",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "XYnJeK2gqsw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "XYnJeK2gqsw",
+        "videoPublishedAt": "2018-04-24T05:06:06Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "as9d20PAb8-Fzhh_vwNYsy-SRD8",
+      "id": "UEx1MUZSOHZuWG5UaTgyZWNlTlRTaEJJdFRIQkFsVW1BMi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-04-30T12:30:18Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 3) - Episode 4 | The Four Scrolls",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Swonf1BbTYg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Swonf1BbTYg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Swonf1BbTYg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Swonf1BbTYg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Swonf1BbTYg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi82eceNTShBItTHBAlUmA2",
+        "position": 4,
+        "resourceId": { "kind": "youtube#video", "videoId": "Swonf1BbTYg" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "Swonf1BbTYg",
+        "videoPublishedAt": "2018-04-30T12:30:01Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XbE2jA42pxL9tYjYph_XVSM3qjY",
+      "id": "UEx1MUZSOHZuWG5UaTgyZWNlTlRTaEJJdFRIQkFsVW1BMi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-05-07T12:13:49Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 3) - Episode 6 | Carry Your Cross",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/36PyCyrrJ9E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/36PyCyrrJ9E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/36PyCyrrJ9E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/36PyCyrrJ9E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/36PyCyrrJ9E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi82eceNTShBItTHBAlUmA2",
+        "position": 5,
+        "resourceId": { "kind": "youtube#video", "videoId": "36PyCyrrJ9E" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "36PyCyrrJ9E",
+        "videoPublishedAt": "2018-05-07T12:13:36Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Pzq5gnqULIR2n5Bx_GUU7XSXezo",
+      "id": "UEx1MUZSOHZuWG5UaTgyZWNlTlRTaEJJdFRIQkFsVW1BMi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-05-17T13:30:17Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 3) - Episode 7 | Mark of the Beast",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l7kFl0pDGEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l7kFl0pDGEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l7kFl0pDGEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l7kFl0pDGEE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l7kFl0pDGEE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi82eceNTShBItTHBAlUmA2",
+        "position": 6,
+        "resourceId": { "kind": "youtube#video", "videoId": "l7kFl0pDGEE" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "l7kFl0pDGEE",
+        "videoPublishedAt": "2018-05-17T13:30:03Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qS-DzMW9QP6oYM0ocCqyZ8ItgCo",
+      "id": "UEx1MUZSOHZuWG5UaTgyZWNlTlRTaEJJdFRIQkFsVW1BMi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-05-21T13:30:14Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 3) - Episode 8 | Mark of the Beast",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MBPggDA6-o4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MBPggDA6-o4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MBPggDA6-o4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MBPggDA6-o4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MBPggDA6-o4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi82eceNTShBItTHBAlUmA2",
+        "position": 7,
+        "resourceId": { "kind": "youtube#video", "videoId": "MBPggDA6-o4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "MBPggDA6-o4",
+        "videoPublishedAt": "2018-05-21T13:30:01Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5xDmAb3LvRZ56gIbPpD1QFPz4Tw",
+      "id": "UEx1MUZSOHZuWG5UaTgyZWNlTlRTaEJJdFRIQkFsVW1BMi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-05-29T09:30:16Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 3) - Episode 9 | Clear the Room",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/URNGa56m77A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/URNGa56m77A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/URNGa56m77A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/URNGa56m77A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/URNGa56m77A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi82eceNTShBItTHBAlUmA2",
+        "position": 8,
+        "resourceId": { "kind": "youtube#video", "videoId": "URNGa56m77A" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "URNGa56m77A",
+        "videoPublishedAt": "2018-05-29T09:30:01Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h6MKPfN4uhthCqvHOkmMyhGHoc4",
+      "id": "UEx1MUZSOHZuWG5UaTgyZWNlTlRTaEJJdFRIQkFsVW1BMi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-06-04T11:00:19Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 3) - Episode 10 | Clear the Room",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fGngEKnxl_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fGngEKnxl_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fGngEKnxl_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fGngEKnxl_s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fGngEKnxl_s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi82eceNTShBItTHBAlUmA2",
+        "position": 9,
+        "resourceId": { "kind": "youtube#video", "videoId": "fGngEKnxl_s" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "fGngEKnxl_s",
+        "videoPublishedAt": "2018-06-04T11:00:03Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YLIPJJ4auaKumTdq7p3wnbjLetE",
+      "id": "UEx1MUZSOHZuWG5UaTgyZWNlTlRTaEJJdFRIQkFsVW1BMi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-06-12T05:07:54Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 3) - Episode 11",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iU0rC6n1H6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iU0rC6n1H6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iU0rC6n1H6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iU0rC6n1H6A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iU0rC6n1H6A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi82eceNTShBItTHBAlUmA2",
+        "position": 10,
+        "resourceId": { "kind": "youtube#video", "videoId": "iU0rC6n1H6A" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "iU0rC6n1H6A",
+        "videoPublishedAt": "2018-06-12T05:07:40Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uCyGswDEX3Nu5RJ6csi5AerE9xQ",
+      "id": "UEx1MUZSOHZuWG5UaTgyZWNlTlRTaEJJdFRIQkFsVW1BMi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-06-18T10:00:22Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 3) - Episode 12",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tk0n65WesCg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tk0n65WesCg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tk0n65WesCg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tk0n65WesCg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tk0n65WesCg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi82eceNTShBItTHBAlUmA2",
+        "position": 11,
+        "resourceId": { "kind": "youtube#video", "videoId": "tk0n65WesCg" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "tk0n65WesCg",
+        "videoPublishedAt": "2018-06-18T10:00:06Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wxyhulR5l_T534HBIjbISIsmiAM",
+      "id": "UEx1MUZSOHZuWG5UaTgyZWNlTlRTaEJJdFRIQkFsVW1BMi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2018-06-27T11:16:40Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 3) - Episode 13 | Red Dragon",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gslb4s4qbSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gslb4s4qbSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gslb4s4qbSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gslb4s4qbSQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gslb4s4qbSQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi82eceNTShBItTHBAlUmA2",
+        "position": 12,
+        "resourceId": { "kind": "youtube#video", "videoId": "Gslb4s4qbSQ" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "Gslb4s4qbSQ",
+        "videoPublishedAt": "2018-06-27T11:16:27Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5k2YhYElKkjQsrY47eL6FoET-VA",
+      "id": "UEx1MUZSOHZuWG5UaTgyZWNlTlRTaEJJdFRIQkFsVW1BMi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-07-04T05:54:34Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 3) - Episode 14 | Red Dragon",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cj8xZ1UyBT4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cj8xZ1UyBT4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cj8xZ1UyBT4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cj8xZ1UyBT4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cj8xZ1UyBT4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi82eceNTShBItTHBAlUmA2",
+        "position": 13,
+        "resourceId": { "kind": "youtube#video", "videoId": "Cj8xZ1UyBT4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "Cj8xZ1UyBT4",
+        "videoPublishedAt": "2018-07-04T05:54:16Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vuc8Seo5kZLA5PoaZUFegQ4J7so",
+      "id": "UEx1MUZSOHZuWG5UaTgyZWNlTlRTaEJJdFRIQkFsVW1BMi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2018-07-10T04:10:16Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 3) - Episode 15 | Season Finale",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6P-HLIostjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6P-HLIostjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6P-HLIostjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6P-HLIostjc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6P-HLIostjc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTi82eceNTShBItTHBAlUmA2",
+        "position": 14,
+        "resourceId": { "kind": "youtube#video", "videoId": "6P-HLIostjc" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "6P-HLIostjc",
+        "videoPublishedAt": "2018-07-10T04:09:55Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 15, "resultsPerPage": 50 }
+}

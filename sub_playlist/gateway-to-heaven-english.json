@@ -1,0 +1,207 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "tNtmeCeMDp7o7DFbti9zIMyKNFw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V_7zm9ffN6ZjRrtc8eomyhgFaPc",
+      "id": "UEx1MUZSOHZuWG5UalZObmc2bVpkdUxqd25tOHd5OV9UVi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2014-07-21T12:15:16Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "GATEWAY TO HEAVEN / ENGLISH - Ep - 1.",
+        "description": "Gateway to Heaven with Pastor Lu Luthra.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FYp0r2qb3EE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FYp0r2qb3EE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FYp0r2qb3EE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjVNng6mZduLjwnm8wy9_TV",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "FYp0r2qb3EE" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "FYp0r2qb3EE",
+        "videoPublishedAt": "2014-07-21T04:15:25Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gfs_FqDBX0F3A5pw7IatwAp3Ykg",
+      "id": "UEx1MUZSOHZuWG5UalZObmc2bVpkdUxqd25tOHd5OV9UVi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2014-07-21T12:15:16Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "GATEWAY TO HEAVEN / ENGLISH - Ep - 2",
+        "description": "Gateway to Heaven with Pastor Lu Luthra.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XMzjuJTU-es/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XMzjuJTU-es/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XMzjuJTU-es/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjVNng6mZduLjwnm8wy9_TV",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "XMzjuJTU-es" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "XMzjuJTU-es",
+        "videoPublishedAt": "2014-07-21T05:10:50Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gwsP2KiLVxprglmNZlMW05lCu98",
+      "id": "UEx1MUZSOHZuWG5UalZObmc2bVpkdUxqd25tOHd5OV9UVi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2014-08-28T07:59:18Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "GATEWAY TO HEAVEN / ENGLISH - Ep - 3",
+        "description": "Gateway to Heaven with Pastor Lu Luthra.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VQJJC7AG1MQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VQJJC7AG1MQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VQJJC7AG1MQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjVNng6mZduLjwnm8wy9_TV",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "VQJJC7AG1MQ" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "VQJJC7AG1MQ",
+        "videoPublishedAt": "2014-08-28T07:58:46Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e0WXfgJGy0AkjZmw0bOFsS-_6BM",
+      "id": "UEx1MUZSOHZuWG5UalZObmc2bVpkdUxqd25tOHd5OV9UVi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2014-10-25T10:20:40Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "GATEWAY TO HEAVEN / ENGLISH - Ep - 4",
+        "description": "Gateway to Heaven with Pastor Lu Luthra.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iAX6g7f1JTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iAX6g7f1JTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iAX6g7f1JTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjVNng6mZduLjwnm8wy9_TV",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "iAX6g7f1JTA" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "iAX6g7f1JTA",
+        "videoPublishedAt": "2014-10-25T10:20:04Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r_9dSwLRgrFs8gKkJpJMr4wjWYo",
+      "id": "UEx1MUZSOHZuWG5UalZObmc2bVpkdUxqd25tOHd5OV9UVi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2015-05-19T02:18:24Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "GATEWAY TO HEAVEN / ENGLISH - Ep - 5",
+        "description": "Gateway to Heaven with Pastor Lu Luthra.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N2JU2lUr5p0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N2JU2lUr5p0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N2JU2lUr5p0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N2JU2lUr5p0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjVNng6mZduLjwnm8wy9_TV",
+        "position": 4,
+        "resourceId": { "kind": "youtube#video", "videoId": "N2JU2lUr5p0" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "N2JU2lUr5p0",
+        "videoPublishedAt": "2015-05-18T16:37:26Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 5, "resultsPerPage": 50 }
+}

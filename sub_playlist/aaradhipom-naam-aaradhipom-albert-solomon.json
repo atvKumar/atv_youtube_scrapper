@@ -1,0 +1,252 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "osQp_Q6TcQnNZCteCmy5OxfCKwI",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GDUI-zzFmWm3dOJZ1plpWbKF7Ug",
+      "id": "UEx1MUZSOHZuWG5Uang3Q0pVX3VWMVNVX0pXUm5PS2RfTC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-09-26T06:10:09Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Aaradhipom Naam Aaradhipom | Albert Solomon | Episode 45",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/46NO8uUkr-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/46NO8uUkr-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/46NO8uUkr-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/46NO8uUkr-M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/46NO8uUkr-M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjx7CJU_uV1SU_JWRnOKd_L",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "46NO8uUkr-M" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "46NO8uUkr-M",
+        "videoPublishedAt": "2018-09-25T04:45:37Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U9A36uf9qZafzj_beFEngTkEcwM",
+      "id": "UEx1MUZSOHZuWG5Uang3Q0pVX3VWMVNVX0pXUm5PS2RfTC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-12-14T07:24:40Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Aaradhipom Naam Aaradhipom | Albert Solomon | Episode 43",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ETAyEu5GQbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ETAyEu5GQbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ETAyEu5GQbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ETAyEu5GQbQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ETAyEu5GQbQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjx7CJU_uV1SU_JWRnOKd_L",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "ETAyEu5GQbQ" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "ETAyEu5GQbQ",
+        "videoPublishedAt": "2018-11-28T09:30:00Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7cALOCMsN2Ab-Kqa3P-bted2nVE",
+      "id": "UEx1MUZSOHZuWG5Uang3Q0pVX3VWMVNVX0pXUm5PS2RfTC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-12-14T07:24:40Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Aaradhipom Naam Aaradhipom | Albert Solomon | Episode 42",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SHiO2hrNbsQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SHiO2hrNbsQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SHiO2hrNbsQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SHiO2hrNbsQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SHiO2hrNbsQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjx7CJU_uV1SU_JWRnOKd_L",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "SHiO2hrNbsQ" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "SHiO2hrNbsQ",
+        "videoPublishedAt": "2018-11-24T05:30:02Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uFjJpHSFye27H2U2tJGMS6wo35k",
+      "id": "UEx1MUZSOHZuWG5Uang3Q0pVX3VWMVNVX0pXUm5PS2RfTC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-12-14T07:24:40Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Aaradhipom Naam Aaradhipom | Albert Solomon | Episode 41",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KqdJaq4gtXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KqdJaq4gtXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KqdJaq4gtXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KqdJaq4gtXI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KqdJaq4gtXI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjx7CJU_uV1SU_JWRnOKd_L",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "KqdJaq4gtXI" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "KqdJaq4gtXI",
+        "videoPublishedAt": "2018-11-10T10:30:00Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DGKA4DwnO5tSOCKyZMp_DyvzEfI",
+      "id": "UEx1MUZSOHZuWG5Uang3Q0pVX3VWMVNVX0pXUm5PS2RfTC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-12-14T07:24:40Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Aaradhipom Naam Aaradhipom | Albert Solomon | Episode 46",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f5VzI9cdB6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f5VzI9cdB6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f5VzI9cdB6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f5VzI9cdB6I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f5VzI9cdB6I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTjx7CJU_uV1SU_JWRnOKd_L",
+        "position": 4,
+        "resourceId": { "kind": "youtube#video", "videoId": "f5VzI9cdB6I" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "f5VzI9cdB6I",
+        "videoPublishedAt": "2018-09-27T06:00:03Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 5, "resultsPerPage": 50 }
+}

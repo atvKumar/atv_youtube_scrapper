@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "JnqTLYlmAdbCSA3zSVC-LpPFEFU",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CjHW3Z8-d4aOFdr7e6PRGoMmEl8",
+      "id": "UEx1MUZSOHZuWG5UaW04OS1tTE5Rb1FxaTlMWmR2OHlBNC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-01-10T04:28:32Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Prophetic Message | Bishop John F. Aruldoss | New Year Special 2022",
+        "description": "#AngelTV #BishopJohnFAruldoss # NewYearSpecial #2022\n\n✔️Subscribe to Angel TV: https://bit.ly/2XiJIqR\n✔️ Get the Angel TV App: https://www.angeltv.org/Viewing-Apps.php\n✔️Subscribe to Angel TV (Chinese): https://bit.ly/3gHmhzm\n✔️Subscribe to Angel TV (Hindi): https://bit.ly/3dnynLT\n✔️Subscribe to Angel TV (Russian): https://bit.ly/3eIphtr\n✔️Subscribe to Angel TV (German): https://bit.ly/2G5f2Uq\n✔️Subscribe to Signs Lab: https://bit.ly/3dloIFu\n\nAngel TV on Social Media:\n► Follow on Twitter: https://twitter.com/angeltv_sss\n► Follow on Instagram: https://www.instagram.com/angeltvsss/\n\n💻 Angel TV: https://www.angeltv.org\n✉ For feedback and testimonies, send an email to: info@angeltv.org\n\nTo watch all 12 channels of Angel TV live:  http://www.angeltv.org/watchOnline/india.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RMRHtpuYOwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RMRHtpuYOwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RMRHtpuYOwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RMRHtpuYOwA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RMRHtpuYOwA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTim89-mLNQoQqi9LZdv8yA4",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "RMRHtpuYOwA" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "RMRHtpuYOwA",
+        "videoPublishedAt": "2022-01-10T12:30:11Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 1, "resultsPerPage": 50 }
+}

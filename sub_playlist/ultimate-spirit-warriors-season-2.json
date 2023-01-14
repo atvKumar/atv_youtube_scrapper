@@ -1,0 +1,1927 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "Kxig-JYsD7Cr1ox3UVkkb5g7Ql4",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FXo8A4jZ9zMBT_Mc5m_IbaZKGOU",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2017-04-27T14:56:37Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 1, Part 1",
+        "description": "http://www.theuswshow.com/\n\nFollow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G4X3Q_YSgUs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G4X3Q_YSgUs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G4X3Q_YSgUs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "G4X3Q_YSgUs" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "G4X3Q_YSgUs",
+        "videoPublishedAt": "2017-04-27T14:56:35Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j9Q2vODxe2v-sMRbkabvi7ujTak",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2017-04-27T14:56:55Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 1, Part 2",
+        "description": "http://www.theuswshow.com/\n\nFollow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AEi8CW_5oBA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AEi8CW_5oBA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AEi8CW_5oBA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AEi8CW_5oBA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 1,
+        "resourceId": { "kind": "youtube#video", "videoId": "AEi8CW_5oBA" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "AEi8CW_5oBA",
+        "videoPublishedAt": "2017-04-27T14:56:53Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MoahH0PKTyfHWzubVSWVRw1HvbM",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2017-04-27T14:57:11Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 1, Part 3",
+        "description": "http://www.theuswshow.com/\n\nFollow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lIExpcJXSoQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lIExpcJXSoQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lIExpcJXSoQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lIExpcJXSoQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 2,
+        "resourceId": { "kind": "youtube#video", "videoId": "lIExpcJXSoQ" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "lIExpcJXSoQ",
+        "videoPublishedAt": "2017-04-27T14:57:09Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "50Y7QuI9U0qfBuEhAUHJRTL5XKA",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2017-05-03T06:04:01Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 2, Part 1",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JWBRh355Ais/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JWBRh355Ais/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JWBRh355Ais/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 3,
+        "resourceId": { "kind": "youtube#video", "videoId": "JWBRh355Ais" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "JWBRh355Ais",
+        "videoPublishedAt": "2017-05-03T06:03:59Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pUGxC4qWLwRogtZRNNqyt_9SHE8",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2017-05-03T06:04:44Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 2, Part 2",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WSFQofrmBHY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WSFQofrmBHY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WSFQofrmBHY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WSFQofrmBHY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 4,
+        "resourceId": { "kind": "youtube#video", "videoId": "WSFQofrmBHY" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "WSFQofrmBHY",
+        "videoPublishedAt": "2017-05-03T06:04:42Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dR6pfkUOeqMOCx2MEnilOjUIYIQ",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2017-05-03T06:05:25Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 2, Part 3",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TNMgav7eyoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TNMgav7eyoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TNMgav7eyoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TNMgav7eyoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 5,
+        "resourceId": { "kind": "youtube#video", "videoId": "TNMgav7eyoU" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "TNMgav7eyoU",
+        "videoPublishedAt": "2017-05-03T06:05:23Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-DEOIrbgRmxBeU1taKWg5yczIps",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2017-05-03T06:11:50Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 2, Part 4",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HOPfwI2x2As/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HOPfwI2x2As/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HOPfwI2x2As/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HOPfwI2x2As/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 6,
+        "resourceId": { "kind": "youtube#video", "videoId": "HOPfwI2x2As" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "HOPfwI2x2As",
+        "videoPublishedAt": "2017-05-03T06:11:49Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7Sj1hN35_ZMk3M7UoGexLxxRU0c",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2017-05-09T04:19:44Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 3, Part 1",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u5oT_qZTQ14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u5oT_qZTQ14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u5oT_qZTQ14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 7,
+        "resourceId": { "kind": "youtube#video", "videoId": "u5oT_qZTQ14" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "u5oT_qZTQ14",
+        "videoPublishedAt": "2017-05-09T04:19:30Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QdxMuG8i8II4FYTTrvOaj7rsFRs",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2017-05-09T04:20:05Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 3, Part 2",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gmlIlHPi314/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gmlIlHPi314/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gmlIlHPi314/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 8,
+        "resourceId": { "kind": "youtube#video", "videoId": "gmlIlHPi314" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "gmlIlHPi314",
+        "videoPublishedAt": "2017-05-09T04:19:55Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XXXFw7M7kq_9Q5E5z7f91iwdr1o",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2017-05-09T04:20:34Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 3, Part 3",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z-NDDwumBnA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z-NDDwumBnA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z-NDDwumBnA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z-NDDwumBnA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 9,
+        "resourceId": { "kind": "youtube#video", "videoId": "z-NDDwumBnA" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "z-NDDwumBnA",
+        "videoPublishedAt": "2017-05-09T04:20:24Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r5b96tu9K2hQsiUIAURy-8lb_No",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2017-05-12T04:11:10Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 4, Part 1",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N29dxqDnG9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N29dxqDnG9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N29dxqDnG9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N29dxqDnG9s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 10,
+        "resourceId": { "kind": "youtube#video", "videoId": "N29dxqDnG9s" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "N29dxqDnG9s",
+        "videoPublishedAt": "2017-05-12T04:11:00Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lKpvpRuSU-lIkWT33lBMXZsT3cs",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2017-05-12T04:11:48Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 4, Part 2",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QTasWpKs8jM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QTasWpKs8jM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QTasWpKs8jM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QTasWpKs8jM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QTasWpKs8jM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 11,
+        "resourceId": { "kind": "youtube#video", "videoId": "QTasWpKs8jM" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "QTasWpKs8jM",
+        "videoPublishedAt": "2017-05-12T04:11:36Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ruz-YkMvvFHLcMoOTlGwHu34ZGY",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2017-05-12T04:12:49Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 4, Part 3",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wD4aIU8MguE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wD4aIU8MguE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wD4aIU8MguE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 12,
+        "resourceId": { "kind": "youtube#video", "videoId": "wD4aIU8MguE" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "wD4aIU8MguE",
+        "videoPublishedAt": "2017-05-12T04:12:39Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lCq09lr7TKw78CK7YacO9fO82IU",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2017-06-14T01:37:55Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 5, Part 1",
+        "description": "http://www.theuswshow.com/\n\nFollow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/406XHYseWDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/406XHYseWDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/406XHYseWDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/406XHYseWDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 13,
+        "resourceId": { "kind": "youtube#video", "videoId": "406XHYseWDU" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "406XHYseWDU",
+        "videoPublishedAt": "2017-06-14T01:37:47Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KzDpTOQo_H6SM6E8lFvgdBchjTs",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2017-06-14T01:38:15Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 5, Part 2",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FUrHd_HYBhk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FUrHd_HYBhk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FUrHd_HYBhk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FUrHd_HYBhk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 14,
+        "resourceId": { "kind": "youtube#video", "videoId": "FUrHd_HYBhk" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "FUrHd_HYBhk",
+        "videoPublishedAt": "2017-06-14T01:38:04Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LPRNeUXINyMfWVZJ0_v5IUALs-Y",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2017-06-14T01:38:32Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 5, Part 3",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nvn3JiGLw8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nvn3JiGLw8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nvn3JiGLw8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 15,
+        "resourceId": { "kind": "youtube#video", "videoId": "nvn3JiGLw8A" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "nvn3JiGLw8A",
+        "videoPublishedAt": "2017-06-14T01:38:19Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zEmmVH4c8-iNQrMk9UTSywhn6ZU",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2017-06-07T05:08:57Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 6, Part 1",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/blAZVwel0BA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/blAZVwel0BA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/blAZVwel0BA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/blAZVwel0BA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 16,
+        "resourceId": { "kind": "youtube#video", "videoId": "blAZVwel0BA" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "blAZVwel0BA",
+        "videoPublishedAt": "2017-06-07T05:08:45Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-NzddDqyrSDaHa5cAI80skl2vUw",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2017-06-07T05:09:16Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 6, Part 2",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_SDIFei9YRw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_SDIFei9YRw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_SDIFei9YRw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 17,
+        "resourceId": { "kind": "youtube#video", "videoId": "_SDIFei9YRw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "_SDIFei9YRw",
+        "videoPublishedAt": "2017-06-07T05:09:06Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IJk_wg5U25lYo2TncaVmYfDcdqs",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2017-06-07T05:09:39Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 6, Part 3",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yk684iirSMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yk684iirSMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yk684iirSMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yk684iirSMA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 18,
+        "resourceId": { "kind": "youtube#video", "videoId": "yk684iirSMA" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "yk684iirSMA",
+        "videoPublishedAt": "2017-06-07T05:09:27Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "67QRZJCm7uLwbRZM3hSJTcowbQ0",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2017-06-07T05:09:57Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 6, Part 4",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5di2CTfjuC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5di2CTfjuC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5di2CTfjuC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 19,
+        "resourceId": { "kind": "youtube#video", "videoId": "5di2CTfjuC8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "5di2CTfjuC8",
+        "videoPublishedAt": "2017-06-07T05:09:47Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5YMCgItPBJlXaUMQKg4OJLpHvSg",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2017-06-21T01:32:19Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 7, Part 1",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f76otKHaOEg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f76otKHaOEg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f76otKHaOEg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 20,
+        "resourceId": { "kind": "youtube#video", "videoId": "f76otKHaOEg" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "f76otKHaOEg",
+        "videoPublishedAt": "2017-06-21T01:32:07Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SbM651Z1DHBFrgGsaJQw6iYoZP4",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2017-06-21T01:32:26Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 7, Part 2",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BGasUIRdmVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BGasUIRdmVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BGasUIRdmVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BGasUIRdmVQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 21,
+        "resourceId": { "kind": "youtube#video", "videoId": "BGasUIRdmVQ" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "BGasUIRdmVQ",
+        "videoPublishedAt": "2017-06-21T01:32:14Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K0mfGaAqBwuaa1Tesl_US8aVPaE",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2017-06-21T01:32:32Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 7, Part 3",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ySqmzBHnvqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ySqmzBHnvqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ySqmzBHnvqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ySqmzBHnvqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 22,
+        "resourceId": { "kind": "youtube#video", "videoId": "ySqmzBHnvqg" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "ySqmzBHnvqg",
+        "videoPublishedAt": "2017-06-21T01:32:20Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rwx40WjulqhqcNSOFYTO3L6o95Q",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2017-08-07T05:55:14Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 8, Part 1",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LLPhDtVwDho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LLPhDtVwDho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LLPhDtVwDho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 23,
+        "resourceId": { "kind": "youtube#video", "videoId": "LLPhDtVwDho" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "LLPhDtVwDho",
+        "videoPublishedAt": "2017-08-07T05:55:12Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t1fN3uFPv60DTSP29kgGQr-bfzA",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2017-08-07T05:55:31Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 8, Part 2",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tXk6RAW3VRw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tXk6RAW3VRw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tXk6RAW3VRw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tXk6RAW3VRw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 24,
+        "resourceId": { "kind": "youtube#video", "videoId": "tXk6RAW3VRw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "tXk6RAW3VRw",
+        "videoPublishedAt": "2017-08-07T05:55:29Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1pXwmBK1xocX9vcVVjeNdFGgShQ",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2017-08-07T05:55:47Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 8, Part 3",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sb4sp7g4mo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sb4sp7g4mo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sb4sp7g4mo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 25,
+        "resourceId": { "kind": "youtube#video", "videoId": "Sb4sp7g4mo4" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "Sb4sp7g4mo4",
+        "videoPublishedAt": "2017-08-07T05:55:46Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6rGiQflVlXsP_o3r7AgNoX9tYI8",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2017-08-09T09:40:48Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 9, Part 1",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uGiXggdKxd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uGiXggdKxd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uGiXggdKxd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 26,
+        "resourceId": { "kind": "youtube#video", "videoId": "uGiXggdKxd0" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "uGiXggdKxd0",
+        "videoPublishedAt": "2017-08-09T09:40:36Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LejzwKR0zFcRNkcVpj-uvUvzgPg",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2017-08-09T09:40:54Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 9, Part 2",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NuZYVFg-UOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NuZYVFg-UOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NuZYVFg-UOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NuZYVFg-UOQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 27,
+        "resourceId": { "kind": "youtube#video", "videoId": "NuZYVFg-UOQ" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "NuZYVFg-UOQ",
+        "videoPublishedAt": "2017-08-09T09:40:42Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dR_YxgBaUjLVWYfhCD5fqoqB3zg",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2017-08-09T09:41:11Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 9, Part 3",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CXn56wHj8u8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CXn56wHj8u8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CXn56wHj8u8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 28,
+        "resourceId": { "kind": "youtube#video", "videoId": "CXn56wHj8u8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "CXn56wHj8u8",
+        "videoPublishedAt": "2017-08-09T09:40:58Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fR4NuuNonLfs0xMuPvxrsy4DC1w",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2017-08-10T09:30:13Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 10, Part 2",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/49VYvM6Vz94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/49VYvM6Vz94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/49VYvM6Vz94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/49VYvM6Vz94/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 29,
+        "resourceId": { "kind": "youtube#video", "videoId": "49VYvM6Vz94" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "49VYvM6Vz94",
+        "videoPublishedAt": "2017-08-10T09:30:01Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qruB1NFU5JWLDo17pBaul6NiJJ8",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2017-08-10T09:30:14Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 10, Part 3",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wELlIslubEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wELlIslubEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wELlIslubEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 30,
+        "resourceId": { "kind": "youtube#video", "videoId": "wELlIslubEo" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "wELlIslubEo",
+        "videoPublishedAt": "2017-08-10T09:30:01Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hsoD6pf8leGQDST1RbbfXWSsvYw",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2017-08-10T09:30:17Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 10, Part 1",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JQY_-qY0Ymw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JQY_-qY0Ymw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JQY_-qY0Ymw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JQY_-qY0Ymw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 31,
+        "resourceId": { "kind": "youtube#video", "videoId": "JQY_-qY0Ymw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "JQY_-qY0Ymw",
+        "videoPublishedAt": "2017-08-10T09:30:00Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zfKqokceQVhvOAtG3MfhuF7OvvA",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2017-08-11T04:00:11Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 11, Part 1",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/77ro_qWnhCw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/77ro_qWnhCw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/77ro_qWnhCw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/77ro_qWnhCw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 32,
+        "resourceId": { "kind": "youtube#video", "videoId": "77ro_qWnhCw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "77ro_qWnhCw",
+        "videoPublishedAt": "2017-08-11T04:00:00Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A1mJa5IojrtUB6qvI77ixYvNu7w",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2017-08-11T04:00:10Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 11, Part 2",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FW9mGO9LLxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FW9mGO9LLxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FW9mGO9LLxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FW9mGO9LLxw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 33,
+        "resourceId": { "kind": "youtube#video", "videoId": "FW9mGO9LLxw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "FW9mGO9LLxw",
+        "videoPublishedAt": "2017-08-11T04:00:02Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bQS4J3ovtu8QyySDxiN_pjQxRrw",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2017-08-11T04:00:14Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 11, Part 3",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wGT7PXy9zaQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wGT7PXy9zaQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wGT7PXy9zaQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wGT7PXy9zaQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 34,
+        "resourceId": { "kind": "youtube#video", "videoId": "wGT7PXy9zaQ" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "wGT7PXy9zaQ",
+        "videoPublishedAt": "2017-08-11T04:00:03Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8thaGPowOpo1Ch92Q55r1fF9YSk",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2017-08-10T09:30:19Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 10, Part 4",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xzyMQIfvamE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xzyMQIfvamE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xzyMQIfvamE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xzyMQIfvamE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 35,
+        "resourceId": { "kind": "youtube#video", "videoId": "xzyMQIfvamE" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "xzyMQIfvamE",
+        "videoPublishedAt": "2017-08-10T09:30:03Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JiHNQNSk4rqBY_S3dLm_wefjzD0",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2017-08-11T11:30:10Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 12, Part 3",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IzqyzmYhUpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IzqyzmYhUpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IzqyzmYhUpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IzqyzmYhUpU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IzqyzmYhUpU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 36,
+        "resourceId": { "kind": "youtube#video", "videoId": "IzqyzmYhUpU" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "IzqyzmYhUpU",
+        "videoPublishedAt": "2017-08-11T11:30:00Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DsNaIlNddQ4HZrB1QN07MDL-aOk",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2017-08-11T11:30:11Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 12, Part 2",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5wx5xpawPXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5wx5xpawPXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5wx5xpawPXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5wx5xpawPXc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 37,
+        "resourceId": { "kind": "youtube#video", "videoId": "5wx5xpawPXc" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "5wx5xpawPXc",
+        "videoPublishedAt": "2017-08-11T11:30:00Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gfkmXrrmR7AP-zEnHmenGbDzgfg",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2017-08-11T11:30:13Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 12, Part 1",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7miGnLYxmM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7miGnLYxmM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7miGnLYxmM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7miGnLYxmM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 38,
+        "resourceId": { "kind": "youtube#video", "videoId": "7miGnLYxmM8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "7miGnLYxmM8",
+        "videoPublishedAt": "2017-08-11T11:30:00Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8sYOyPU_d8F_YvDMFwNBhNm0z5Y",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2017-08-12T07:30:11Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 13, Part 2",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SidgxucfbW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SidgxucfbW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SidgxucfbW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SidgxucfbW8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 39,
+        "resourceId": { "kind": "youtube#video", "videoId": "SidgxucfbW8" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "SidgxucfbW8",
+        "videoPublishedAt": "2017-08-12T07:30:01Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h7yFohDwX5QFKUp_FWM-ncXy1PY",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2017-08-12T07:30:13Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 13, Part 1",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M30cxCcPoIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M30cxCcPoIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M30cxCcPoIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M30cxCcPoIU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 40,
+        "resourceId": { "kind": "youtube#video", "videoId": "M30cxCcPoIU" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "M30cxCcPoIU",
+        "videoPublishedAt": "2017-08-12T07:30:00Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ioyf8N4Jt4VePOlUwyeDUzH5dIE",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2017-08-12T07:30:14Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Episode 13, Part 3",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_nI2FCYarSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_nI2FCYarSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_nI2FCYarSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_nI2FCYarSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 41,
+        "resourceId": { "kind": "youtube#video", "videoId": "_nI2FCYarSU" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "_nI2FCYarSU",
+        "videoPublishedAt": "2017-08-12T07:30:00Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B5y5w8aaiEcXoS-X_zMOxWqHZKY",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2017-08-13T04:30:13Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Season Finale, Part 2",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9In5GEiz-6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9In5GEiz-6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9In5GEiz-6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9In5GEiz-6w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 42,
+        "resourceId": { "kind": "youtube#video", "videoId": "9In5GEiz-6w" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "9In5GEiz-6w",
+        "videoPublishedAt": "2017-08-13T04:30:00Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wf5YBoiAEuzG1ZmgarTDueShDBg",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2017-08-13T04:30:15Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Season Finale, Part 1",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aI1DJzYIn5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aI1DJzYIn5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aI1DJzYIn5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aI1DJzYIn5M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 43,
+        "resourceId": { "kind": "youtube#video", "videoId": "aI1DJzYIn5M" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "aI1DJzYIn5M",
+        "videoPublishedAt": "2017-08-13T04:30:01Z"
+      },
+      "status": { "privacyStatus": "public" }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2s3otN2hl7dJMOvtC_U1BKhN-yA",
+      "id": "UEx1MUZSOHZuWG5UaWZtTll6d2tnVHpRSDUyclNmeEJfLS41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2017-08-13T04:30:16Z",
+        "channelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+        "title": "Ultimate Spirit Warriors (Season 2) - Season Finale, Part 3",
+        "description": "Follow us on social media:\nFacebook: https://www.facebook.com/AngelTV.SSS\nTwitter: https://twitter.com/angeltv_sss\nWebsite: http://www.angeltv.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M6x8nU01cRw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M6x8nU01cRw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M6x8nU01cRw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M6x8nU01cRw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Angel TV",
+        "playlistId": "PLu1FR8vnXnTifmNYzwkgTzQH52rSfxB_-",
+        "position": 44,
+        "resourceId": { "kind": "youtube#video", "videoId": "M6x8nU01cRw" },
+        "videoOwnerChannelTitle": "Angel TV",
+        "videoOwnerChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA"
+      },
+      "contentDetails": {
+        "videoId": "M6x8nU01cRw",
+        "videoPublishedAt": "2017-08-13T04:30:00Z"
+      },
+      "status": { "privacyStatus": "public" }
+    }
+  ],
+  "pageInfo": { "totalResults": 45, "resultsPerPage": 50 }
+}
