@@ -14,5 +14,5 @@ for index, playlist in enumerate(data, 1):
         # print(playlist, data[playlist]['items'][video]['Name'])
         data[playlist]['items'][video]['language'] = playlist_language
 
-with open("new_final_video.json", "w", encoding="utf-8") as outfile:
+with open("thisone.json", "w", encoding="utf-8") as outfile:
     json.dump(data, outfile, ensure_ascii=False)
