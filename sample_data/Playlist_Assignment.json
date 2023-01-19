@@ -1,0 +1,32 @@
+[
+  {
+    "model": "vod.playlist_assignment",
+    "pk": 1,
+    "fields": {
+      "playlist_id": 1,
+      "video_id": 1,
+      "timestamp": "2023-01-18T05:20:55.465Z",
+      "position": 1
+    }
+  },
+  {
+    "model": "vod.playlist_assignment",
+    "pk": 2,
+    "fields": {
+      "playlist_id": 2,
+      "video_id": 2,
+      "timestamp": "2023-01-18T06:26:20.813Z",
+      "position": 1
+    }
+  },
+  {
+    "model": "vod.playlist_assignment",
+    "pk": 3,
+    "fields": {
+      "playlist_id": 2,
+      "video_id": 3,
+      "timestamp": "2023-01-18T06:26:34.971Z",
+      "position": 2
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "model": "vod.playlist",
+    "pk": 1,
+    "fields": {
+      "title": "Healing Love | Sadhu Sundar Selvaraj | 2023",
+      "slug": "healing-love-sadhu-sundar-selvaraj-2023",
+      "short_description": null,
+      "poster_image": "playlist_thumbnail/healing-love-sadhu-sundar-selvaraj-2023.jpg",
+      "status": "Public",
+      "language_id": "ta"
+    }
+  },
+  {
+    "model": "vod.playlist",
+    "pk": 2,
+    "fields": {
+      "title": "New Year Special | 2023",
+      "slug": "new-year-special-2023",
+      "short_description": null,
+      "poster_image": "playlist_thumbnail/new-year-special-2023.jpg",
+      "status": "Public",
+      "language_id": "ta"
+    }
+  }
+]
