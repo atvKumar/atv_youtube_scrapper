@@ -29,7 +29,7 @@ for x, a in enumerate(rest, 1):
     video_field_data["title"] = a["Name"]
     video_field_data["slug"] = a["slug"]
     video_field_data["type_id"] = 1
-    video_field_data["language_id"] = "en"
+    video_field_data["language_id"] = a["language"]
     video_field_data["description"] = a["description"]
     video_field_data["external_url"] = a["url"]
     video_field_data["date_uploaded"] = a["date_uploaded"].replace('+00:00', 'Z')
