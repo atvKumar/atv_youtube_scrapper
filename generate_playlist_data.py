@@ -20,6 +20,7 @@ for index, playlist in enumerate(data, 1):
     playlist_field_data["external_url"] = data[playlist]["url"]
     playlist_field_data["status"] = "Public"
     playlist_field_data["language_id"] = data[playlist]["language"]
+    playlist_field_data['timestamp'] = data[playlist]["date_uploaded"].replace('+00:00', 'Z')
     playlist_item["fields"] = playlist_field_data
     playlist_data.append(playlist_item)
 
