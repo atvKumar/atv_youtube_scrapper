@@ -19,7 +19,7 @@ for index, playlist in enumerate(data, 1):
     playlist_field_data["poster_image"] = f"playlist_thumbnail/{data[playlist]['slug']}.jpg"
     playlist_field_data["external_url"] = data[playlist]["url"]
     playlist_field_data["status"] = "Public"
-    playlist_field_data["language_id"] = "en"
+    playlist_field_data["language_id"] = data[playlist]["language"]
     playlist_item["fields"] = playlist_field_data
     playlist_data.append(playlist_item)
 
